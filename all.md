@@ -2743,7 +2743,7 @@ PayPal
 Balanced Payments
 Google Wallet
 Amazon Payments
-Bank Simple
+Bank Simple | Simple | The way banking should be | Online Banking With Automatic Budgeting & Savings | Worry-free Alternative to Traditional Banking
 2Checkout
 Web Payments | Payment technologies for the Web
   PaySwarm

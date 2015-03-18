@@ -2876,6 +2876,7 @@ peeps | A more personal way to keep in touch
 
 BucketListly | The Travel Bucket List Community that helps you unlock achievements in real life | Create Online Bucket List and Unlock achievements in real life
 Travelistly by BucketListly | Trending Travel Blog Posts on the Internet
+  Travelistly TV | Travel Videos Non-Stop — Travelistly by BucketListly
 
 G'MIC (GREYC's Magic for Image Computing) | Framework for image processing that comes with a large number of pre-defined image filters and effects
 
@@ -6463,11 +6464,224 @@ Omega POS Cloud | Software, Aplikasi, Program Point of Sales Online Indonesia
 POS Cloud Indonesia | Aplikasi, Program, Software Point of Sales Cloud Based Pertama Di Indonesia
 
 
+Orion | Simple and powerful admin generator for meteor that lets you build simple webpages in minutes
+
+Djump | Social Ridesharing
+
+Timesheet.js | Open time tables with HTML, JavaScript and CSS
+
+Platzi | Learn technology with live classes and real-time interaction
+  Platzi | Cursos online profesionales de tecnología
+
+Open Credentials | Privacy-protecting online identities
+End-To-End | Chrome extension that helps you encrypt, decrypt, digital sign, and verify signed messages within the browser using OpenPGP
+
+twister | P2P microblogging platform
+
+GeoPattern | Generate beautiful SVG patterns
+
+Snap CI by ThoughtWorks | Hosted Continuous Integration and Continuous Delivery
+
+underline.js | Pushing the boundary of browser typography rendering! | JavaScript library that sets out to do one simple job: draw and animate the most perfect and playful text underline
+
+MobaXterm | Free Xserver and tabbed SSH client for Windows
+
+Cooper | A user experience design and strategy firm
+  
+Wikasa | Simple Audio Recording and Notetaking
+Invoice2go | Invoice App | Easiest way to invoice and stay organized
+
+Tab | The simple bill splitting app
+
+Mollie | Accept payments online
+MagLoft | Digital Magazine Hosting and Publishing
+
+Password Masking | Remove password masking
+
+total.js | Web application framework for Node.js | Free web application framework for building Web sites and Web applications using JavaScript, HTML and CSS. Node.js (MVC) web application framework
+
+BrandBucket | The Largest Brandable Business Names Marketplace
+
+fatberry (formerly whttl) | Find the service or product you need
+
+LiveMocha | Rosetta Stone® Language-Learning Software
+
+How The World Sees You
+
+Blackfire Profiler | Fire up your PHP App Performance
+
+Player FM | Internet Radio Done Right
+
+Meerkat | Tweet Live Video
+
+Music Player Daemon (MPD) | Free and open source music player server | It plays audio files, organizes playlists and maintains a music database
+Gramofon by Fon | Modern Cloud Jukebox
+Pi MusicBox | A Spotify, SoundCloud, Google Music player for the Raspberry Pi, with remote control
+
+Sesame | OpenRDF | Powerful Java framework for processing and handling RDF data
+
+One Page Love
+
+IDPF | International Digital Publishing Forum | The Trade and Standards Organization for the Digital Publishing Industry
+
+Snazzy Maps | Free Styles for Google Maps
+
+Nightwatch.js | Node.js powered End-to-End testing framework
+
+gagarin | Another testing framework for your meteor apps
+
+Meteor Mongol | The Insanely Useful Meteor Development Package
+
+Hello Heart BP App | Monitor blood pressure app
+
+Google MapBuildr | Google Map Making, Simplified
+
+Voovo | Online 3D Printing Service
+
+Coolan | Infrastructure Trends | Data-driven, community-based software platform that provides actionable insights about how your data center environment is performing
+
+Babel | The transpiler for writing next generation JavaScript
+
+Squall | The Tweetstorm Cometh | Write freely. Share widely.
+
+NSpec | BDD style testing in .Net
+
+Airpal | Web UI for PrestoDB | Web-based, query execution tool which leverages Facebook's PrestoDB to make authoring queries and retrieving results simple for users
+
+NativeScript | Cross-Platform Native Development with Javascript | Build truly native apps with JavaScript | Native App Development with JS and CSS | Develop iOS, Android and Windows Phone apps from a single code base | Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript
+
+Slideout.js | A touch slideout navigation menu for your mobile web apps
+
+Mango | Accept online payments
+
+CodersTV | Watch programming videos or broadcast your coder skills with the world
+
+Newton | Playful physics | Powerful 2D physics with a simple API for browsers and Node.js
+
+Cryo | JSON on steroids
+hamburgler.js | The easiest, most delicious, responsive menu
+
+Nomanini | Sell airtime and electricity
+
+Bish | Shell scripting with a modern feel | A language that compiles to Bash | It's designed to give shell scripting a more comfortable and modern feel
+
+Cucumber | Behaviour Driven Development with elegance and joy
+Kickstart Academy | Co-operative assembly of experts who deliver their own public and private courses
+  Behaviour-Driven Development (BDD), Continuous Delivery, Practical Object Oriented Design
+
+data.id | Portal Data Indonesia
+
+Withings Activite
+Watchville | The latest news about watches
+WatchAware | It's about the watch
+
+Paperspace | A Better Computer
+
+Startup Videos | Showcasing The Best Startup Videos
+
+Smallpdf.com | We make PDF easy | A Free Solution to all your PDF Problems
+
+muchmarket.com | Buy and Sell Things for Dogecoin!
+
+Qards | Responsive Page Builder Plugin for WordPress
+
+Google Cardboard | The VR Kit for everyone
+  Google Cardboard Kit | VR on your Smartphone
+
+The Name App | Domain & Social Media Name Finder
+flattyshadow.com | Long Shadow, Flat Icon, Download Free, Download Free Flat Icon, Flat Icon Free Download , Free Icon Flatty Shadow, Icon Shadow, Icon, Flat, Icon Generator, Flat Icon Generator,Download shadow icons, Shadow creator, Online image Shadow creator, Flat icon creator, Free flat icon, Icon shadow
+
+CSSREEL | CSS Website Awards | World best websites | website design awards | CSS Gallery
+
+UX Mastery | User experience design tips, tools & trainingUX Mastery | user experience design tips, tools & training
+UX Movement | Articles on Interface Design
+
+Music Bed | Music Licensing for Film & Video
+
+iFrame Resizer | Keep same and cross domain iFrames sized to their content with support for window/content resizing, in page links, nesting and multiple iFrames
+
+24hourtime.info | Because there are 24 hours in a day!
+Owaves | The World's First Wellness Planner
+WorldChatClock.com by Darkhorse Analytics | Helps you find a time to chat with people in different cities
+NO-WATCH | Unusual and Limited Edition wristwatches
+CandooIt | Planning for humans!
+furrysoft | Universal Ticker
+  TimeDisc | Time meets Color
+Mr Jones Watches
+
+Understanding Context | A Book about Environment, Language, and Information Architecture
+The Understanding Group (TUG) | Information Architecture
+
+Leftronic | Make intelligent business decisions
+Klipfolio | Your Online Business Dashboard Platform
+Chartio | Visualize and explore your data
+
+Cynapse
+  Numerics | Dashboards to visualize your numbers
+
+DOKU | The better way to pay
+Female Daily | Your Map to All Things Beauty
+Mommies Daily | Mommies Daily is dedicated to all Indonesian moms out there, who, just like us, strive to be realistic and practical
+Berrybenka.com | Sell Ladies fashion, clothes, and accessories
+Berry Kitchen
+
+enable-javascript.com | How to enable JavaScript in your browser and why
+
+LocalData | Better data makes beter cities
+
+Cookpad | Tempat No. 1 untuk menyimpan resep masakan kamu
+
+ProductPress | Sell your WordPress content on Gumroad
+Network Effects | Alert your team. Now. | EEasy to send group SMS (or email) messages
+
+IdeaMarket | Amazing ideas. Backed by investors. Built by you. | Curated crowd-sourced marketplace for ideas that solve
+everyday problems and uncover interesting new opportunities
+
+Actualized.org | Advanced Personal Development Videos
+
+LaunchKit | Simple, useful tools for mobile makers
+  App Store Screenshot Builder | Create gorgeous images for your App Store page in minutes. | LaunchKit
+
+CSS SANS | Font created by CSS
+
+Bakat | Simplify hiring talents
+
+Freedom | Internet Blocking Productivity Software
+  Freedom for Android Phones and Tablets
+
+Iconfinder | Icon search engine and market place | Free and premium icons
+
+Scanbot | The mobile pdf scanner for iPhone and Android
+
+Brick By Brick | A free guide to building awesome communities
+
+Bornevia | Customer service software for your business
+
+Papyros | Modern. Fast. Beautiful. Awesome.
+
+Thank God It's Pi Day
+
+Curated | Grow your audience by collecting and sharing engaging content
+
+Android Niceties | Collection of screenshots encompassing some of the most beautiful looking Android apps
+
+to-markdown | An HTML to Markdown converter written in JavaScript
+
+SVGO | Nodejs-based tool for optimizing SVG vector graphics files
+SVGOMG | SVGO's Missing GUI | Web GUI for SVGO
+
+CalorieKing | Diet and weight loss | Calorie Counter and more
 
 
 
 
-
+Direct and indirect involvement:
++ Digital assets and knowledge
++ AMPlified website
++ BdB Audio News
++ Labbaik
++ Ashalat
++ Appsco
 
 
 
@@ -6639,6 +6853,8 @@ Crowdtivate | launch pad for your business dreams
 
 Sribu | Jasa Logo Desain, Web Desain dan Desain Grafis lainnya secara Online & Harga Terbaik
 Sribulancer | Cari Freelancer & Pekerjaan Freelance Online
+
+Pricebook | Bandingkan Harga Gadget Termurah di Indonesia
 
 Rintis Kreasi | Komunitas Kreasi StartUp dan Produk Digital
 Maen.Co | Cari, Join, Maen
