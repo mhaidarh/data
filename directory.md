@@ -6169,7 +6169,7 @@ CouchApp | Standalone CouchDB Application Development Made Simple | Utilities to
 6to5 | Turn ES6+ code into readable vanilla ES5
 
 Startuplister | Promote your Startup
-techlist.asia | Startup Business Intelligence Tool | Where startups connect with investors
+Techlist | Where startups connect with investors | Startup Business Intelligence Tool | Where startups connect with investors
 
 TrackingTime | Real time, collaboration and organization
 
@@ -6620,6 +6620,7 @@ Cynapse
   Numerics | Dashboards to visualize your numbers
 
 DOKU | The better way to pay
+  DOKU Wallet
 Female Daily | Your Map to All Things Beauty
 Mommies Daily | Mommies Daily is dedicated to all Indonesian moms out there, who, just like us, strive to be realistic and practical
 Berrybenka.com | Sell Ladies fashion, clothes, and accessories
@@ -6670,18 +6671,95 @@ to-markdown | An HTML to Markdown converter written in JavaScript
 SVGO | Nodejs-based tool for optimizing SVG vector graphics files
 SVGOMG | SVGO's Missing GUI | Web GUI for SVGO
 
+Norman layout | 46% less effort than QWERTY
+
 CalorieKing | Diet and weight loss | Calorie Counter and more
 
+CRAZYHACKERZ | Custom technology developer company that builds advanced solutions
+
+Ardent Capital | Operating Venture Capital Firm and Incubator in Southeast Asia
+
+Notable PDF | PDF Viewer and Annotation App
+
+Open Atrium | Communicate securely, share assets & accomplish work together online | Intranet in a box that has group spaces to allow different teams to have their own conversations and collaboration
+
+UX Project Checklist | Start your next UX project with this checklist and don't forget about anything!
+UX Recipe | A checklist where you discover, choose and estimate your next UX project tools & techniques
+IxD (Interaction Design) Checklist
+Web Designers Checklist | Visual Designers Checklist for the Web
+Fuel UX | Extends Bootstrap with additional lightweight JavaScript controls for your web applications
+
+Pantheon | Pantheon Systems | Website Management Platform | The WordPress & Drupal Website Management Platform
+
+ViewFlux | Feedback, prototyping & collaboration for designers
+Savah | Free Design Collaboration & Interactive Prototyping for Web or Mobile Apps
+
+Purple | A UI kit for Heroku's web interfaces
+Napkin | Design Quick Mocks On Your iPhone
+
+Gyroscope | A personal website powered by your life
+Moves | Activity Diary for iPhone and Android
+Strava | Running and Cycling GPS Tracker, Performance Analytics, Maps, Clubs and Competition
+RunKeeper | Track your runs, walks more with your iPhone or Android phone
+
+ShirtJS | T-shirts and Posters for Web Designers, Developers, and Programmers
+
+GitHub Octokit | Simple and official way to build amazing experiences using the GitHub API
+
+slick | The last carousel you'll ever need
+
+Badr-Interactive | IT Service Company
+LastFeet | Location Based Marketplace
+
+Colibri IO | Maximize Online Brand Visibility
+
+DrivePlayer.com | Music Player for Google Drive
+
+Title Capitalization | Your Online Title Case Tool | Automatically Capitalize Your Title
+
+Troy Henderson | tlhiv.org/grayscale | Convert Color EPS/PDF/SVG to Grayscale
+Grayscale PDF | Free Online PDF to Grey Scale Converter
+
+lunr.js | Simple full-text search in your browser | A bit like Solr, but much smaller and not as bright
+
+Sheetsee.js | Client-side library for connecting Google Spreadsheets to a website and visualizing the information in tables, maps and charts
+FullStory | See what your users see | Lets your company easily record, replay, search, and analyze each user's actual experience with your website
+Optimal Workshop | User Experience Testing Tools
+  Treejack
+  Optimalsort
+  Chalkmark
+
+Dispatch | The world's most powerful on-demand platform
+
+Material Icons Index
+  https://google.github.io/material-design-icons
+Material Design Icons
+  http://materialdesignicons.com
+
+Land-book | Best landing pages gallery
+
+FAQoverflow | Great Answers to Questions About Everything
+
+PRADO PHP Framework
+
+Bindle | A show & tell for gear
+
+Web Tempest
+  Meteor Tutorial | Bring your ideas to life with Meteor - Matthew Platts
+
+International Student Identity Card (ISIC)
+Outercurve Foundation
 
 
 
-Direct and indirect involvement:
-+ Digital assets and knowledge
-+ AMPlified website
-+ BdB Audio News
-+ Labbaik
-+ Ashalat
-+ Appsco
+```
+http://makezine.com/2015/03/24/8-fpv-drone-racing-videos-put-pilots-seat/
+http://www.boredpanda.com/funny-duck-cartoon-fowl-language-comics-brian-gordon/
+http://www.boredpanda.com/white-albino-animals/
+http://www.boredpanda.com/unlikely-animal-sleeping-buddies/
+http://www.boredpanda.com/pictures-right-moment-perfectly-timed-photos/
+```
+
 
 
 
