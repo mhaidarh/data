@@ -1759,7 +1759,7 @@ Requirements Tool
 + Any.do
 + Producteev
 + Wunderlist
-+ Todois
++ Todoist | To-do list and task manager. Free, easy, online and mobile
 + TeuxDeux
 
 + Sandglaz
@@ -2744,6 +2744,7 @@ Balanced Payments
 Google Wallet
 Amazon Payments
 Bank Simple | Simple | The way banking should be | Online Banking With Automatic Budgeting & Savings | Worry-free Alternative to Traditional Banking
+
 2Checkout
 Web Payments | Payment technologies for the Web
   PaySwarm
@@ -4226,6 +4227,7 @@ Inspiration
 + Lore
 + Study Blue
 + Canvas LMS by Instructure
++ Moodle
 + Scholica
 + Agilix
 + Angel
