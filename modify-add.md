@@ -1,0 +1,4 @@
+nvm
+rbenv
+pyenv
+

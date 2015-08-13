@@ -199,9 +199,8 @@ Kind of Normal
 Truth Facts | Kind of Normal
 
 Flatsheet | A realtime editor for curating data | Manage tabular data with a friendly editor & a simple JSON API
-Fieldbook | Track anything in simple data tables
+Fieldbook | Track anything in simple data tables | Create a database, as easily as a spreadsheet
 
-LocalWiki
 Tabletop.js gives spreadsheets legs
 sheetsee.js | visualize data from a google spreadsheet
 Daltonize.org
@@ -6243,7 +6242,6 @@ Google The Physical Web | Walk up and use anything
 
 Buzz | Javascript HTML5 Audio library | Small but powerful Javascript library that allows you to easily take advantage of the new HTML5 audio element. It tries to degrade silently on non-modern browsers
 
-Fieldbook | Track anything in simple data tables
 Assistant | The Easiest Way to Schedule Meetings | Schedule group meetings painlessly
 Pintask | Make yourself a perfect task tracker
 SonicAgile | Agile Project Management Tool
@@ -7832,7 +7830,7 @@ MAKER The Movie
 
 Greenfoot | Teach & Learn Java Programming
 
-Coach.me | Instant Coaching for Any Goal
+Coach.me | Instant Coaching for Any Goal | Build your career. Get in shape. Learn a new skill.
 
 Getaround | Peer-to-peer car sharing and local car rental
 
@@ -8020,15 +8018,278 @@ Ebizu | Transform your Business with GST-Compliant Retail Solutions
 The 100 Startup
 
 Perdoo | The ultimate OKR tool | The world's most powerful goal management platform
+Cove | Goal Setting & OKR for Teams
 
 Slidely | Create & Share Beautiful Videos, Slideshows and Photo Collages
 
 Astrum People | Famous Biographies, Success Stories, Interviews
 
+Geomicons | Open Source Icons for the Web
 
 Google Polymer Element Catalog | https://elements.polymer-project.org
 Google Polymer Designer | https://polymer-designer.appspot.com
 
+Leaflet | JavaScript library for interactive maps
+
+GitHub-Popularity-Growth-Patterns by mtov | Evaluating the Popularity of GitHub Software over Time
+
+Astronomer | Liberate your user event data | Spend time shipping product, not integrating tools
+Churnbee | Visualize Your SaaS Performance
+
+SEOquake | SEO toolbar, plugin, seo extension for Mozilla Firefox, Google Chrome, Opera
+Online Broken Link Checker | Free Broken Link Checker | Online URL Validator | Finds dead or bad weblinks
+
+CodersCrowd | What You Code Is What You Are | The Crowd Computing
+exercism.io | Crowd-sourced mentorship | Exercise your Brain | Crowd-sourced code reviews on daily practice problems | The devil is in the details
+
+Sameroom.io | Keeping it real-time! | Connect channels and rooms across chat services
+Fleep | The next generation messenger | Respect for conversations that matter
+
+Edgar | Social Media Management & Scheduling Tool | The only app that stops social media updates from going to waste
+Laura Roeder | LKR Social Media | Effective Social Media Marketing. How You Can Leverage Facebook Marketing & Twitter Marketing To Increase Profits For Your Business!
+Creating Fame | Get Business Famous in 3 Simple Steps
+
+Google Eddystone | Protocol specification that defines a Bluetooth low energy (BLE) message format for proximity beacon messages
+
+flag-icon-css | CSS for vector based country flags
+
+Skills You Need | Helping You Develop Life Skills
+
+objc.io | Books on advanced techniques and practices for iOS and OS X development
+
+Scenery for Mac | Showcase your designs with premium mockup templates
+
+PostCSS | Transforming CSS with JS plugins
+
+Amplifr | Publishing and Analytics for Social Media
+Rove | Generate Vagrant configuration
+Evil Icons | Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN
+
+Acorns | Start Investing Today | Invest spare change automatically from everyday purchases into a diversified portfolio
+
+5 Days to Your Best Year Ever! | Accomplishing Your Goals Just Got a Lot Easier
+
+Nozbe | To-do, task, project and time management productivity gtd getting things done online application with software for Apple iPhone iPad Android Mac Windows Linux
+GoalsOnTrack | Web-based Goal Setting Software
+Lifetick | Online goal setting made simple
+Strides | Goals & Habits Tracker
+irunurun | Actions speak louder than goals
+Habit List | Create good habits. Break unhealthy ones. Build a better you.
+
+Mattermark | Big Data Meets Deal Making | Quantifying Private Company Growth for Startup Investors | Data-Driven Deal Making | Prospect the world’s fastest-growing companies
+
+Experiment | Crowdfunding Platform for Scientific Research
+
+FocusVision | Discover. Understand. Act.
+
+Superstatic | Static Web Server for HTML5 Applications
+Built with Polymer | Curated collection of web apps and websites using Polymer | Showcase of web apps and websites using Polymer
+bitHound | Code quality for your JavaScript, TypeScript and JSX | Build resilient, remarkable software | Code quality, maintainability, and stability for all of your public and private project repositories
+Ele | Build and Publish Web Components in the Browser
+
+Blazon | Present boldly
+
+CyPhy Works | Revolutionary Robots
+
+Angular Modules | ngmodules.org | AngularJS Modules, Plugins and Directives
+ng-polymer-elements | AngularJS two-way binding for Polymer Web Components | Out of the box support for Iron, Paper, Gold and Google elements
+
+DNS Made Easy | Enterprise Managed DNS Services
+
+Zoom | The Cloud Meeting Company | Video Conferencing, Web Conferencing, Online Meetings, Screen Sharing | Video Conferencing, Web Conferencing, Online Meetings, Screen Sharing
+
+Podcast Chart | Discover the world's biggest podcasts | Browse the charts, follow your favorites, and listen to the best podcasts on earth
+
+CrowdSchool | Create, share and discover project based learning
+
+WebAppers | Best Free Open Source Web Resources for Web Developers
+
+FontForge Open Source Font Editor
+  Design With FontForge | A Book About How To Create New Typefaces Using FontForge
+
+Spec | The Best Podcasts for Designers and Developers.
+  Developer Tea
+  Design Details
+  How to Hold a Pencil
+
+Pocket Casts | The only podcatcher you’ll ever need | Listen to your favorite shows in one place
+  Play Pocket Casts | All your podcasts, right here in the browser
+
+Simplecast | Podcast Hosting Made Incredibly Easy | Publish your podcasts the easy way
+
+Spectacle | ReactJS based Presentation Library
+Thorax: Backbone + Handlebars | An opinionated, battle-tested Backbone + Handlebars framework to build large scale web applications
+
+ES6 Interactive Guide | An interactive guide to ES6
+
+Fire Nation Elite | A Mastermind On Fire
+
+MeetMe | Your online booking page
+
+Satellizer | Token-based AngularJS Authentication
+
+The Allium | Science News Direct Today
+
+Hemingway Editor | Makes your writing bold and clear
+Thinkmap Visual Thesaurus | An online thesaurus and dictionary of over 145,000 words that you explore using an interactive map
+
+vis.js | A dynamic, browser based visualization library
+Timeline JS | Beautifully crafted timelines that are easy, and intuitive to use
+
+CourseTalk | Find and review the best online courses and MOOCs
+
+Appsembler | The Open edX™ Enterprise Experts : Appsembler
+
+dragula | Drag and drop so simple it hurts
+
+Echochamber.js | Commenting without the comments
+
+Mautic | Open Source Marketing Automation
+
+Gulp Fiction | Graphical editor to create your gulpfile
+
+SSLMate | Buy SSL certs from the command line | Secure your website the easy way | SSLMate makes it easy to buy, deploy, and manage your SSL certs
+
+Neuron | AI meets E-Commerce for consumer behaviour prediction | Audience Segmentation on Social Networks using AI
+mYwindow | Sell anything with just a link | Sell products in seconds
+
+PsyBlog | Psychology studies relevant to everyday life
+
+Adobe Brackets | A modern, open source code editor that understands web design.Adobe Brackets | Open-source code editor built with the web for the web | Open-source code editor built with the web for the web
+
+Feed The Bot | How to follow the Google webmaster guidelines
+  Pagespeed Optimization | The tool and optimization guide
+
+Spoon University | Food website and community for college students, with chapters on campuses across the country
+
+Screenings | Watch. Learn. Design
+
+css2sass | Convert CSS Snippets to Syntactically Awesome StyleSheets code
+
+Zenefits | Online HR Software | Payroll. Benefits. Compliance.
+
+Branch Metrics | Number 1 in Deep Links for Mobile Apps |
+  Deep links to help you optimize your growth with download measurement
+  Deep links to help you convert web visitors into app users
+  Deep links to help you grow organically with referrals and invites
+  Deep links to help you activate more users with personalized onboarding
+
+Canvas by Instructure | Learning Management System
+  Canvas Network | Free online courses | MOOCs
+Bridge | Cloud LMS | Corporate Learning Management System
+Edmodo | Where Learning Happens | Connect With Students and Parents in Your Paperless Classroom | Edmodo
+Edu Apps | EduAppCenter | An open LTI™ app collection
+eFront LMS | Train people. Better. | Enterprise Learning Management System Software | A powerful, yet simple LMS  to cover your training & skills development needs
+TalentLMS | Cloud based LMS Solution & Online Training with an emphasis on Usability and easy Course creation
+Sakai | Freely available, feature-rich technology solution for learning, teaching, research and collaboration
+SCORM
+  Tin Can API | Programmable E-learning and Experience Tracking
+OpenSesame | Online Training Courses | Employee Training
+Fedena | School Management Software & School Management Information System
+Chamilo in English | Chamilo Association website for the English speaking community around the e-learning platform
+myVLE | Learning Management System
+
+LMS | Program Generation and Embedded Compilers in Scala | A Framework for Runtime Code Generation and Compiled DSLs
+
+GoGuardian | Chromebook monitoring, filtering and Theft Recovery for schools.
+
+Kaltura Video Platform | Open Source Video
+
+Vanity URL Shorteners | Custom URL Shorteners
+
+Socrative | Visualizing student understanding has never been clearer
+
+Stretchy | Form element autosizing, the way it should be
+
+wicd | A network connection manager that aims to simplify wired and wireless networking in Linux
+
+Deku | Functional view library for building UI components as an alternative to React
+
+/dev/null as a Service
+
+Sato.sh | Sharing rewarded!
+
+CitizenLab | A civic engagement platform for cities | Empower your citizens to co-create their city
+
+Fairphone | Buy a phone, join a movement
+
+oVirt | Open Your Virtual Datacenter
+
+GTmetrix | Website Speed and Performance Optimization | Analyze your site’s speed and make it faster
+Zoompf | Web Performance Optimization for the Enterprise
+Siteliner | Find Duplicate Content on your site
+
+Optimizilla | Ultimate Image Optimization
+PDF Compressor | Compress PDF Files Online
+
+NGINX | High Performance Load Balancer, Web Server, & Reverse Proxy
+
+Xendit | Send money quickly | The friendliest way to pay and get paid
+
+Name.com Domain Happy Hour: Get cheap domain names on sale!
+
+ECMAScript 6 compatibility table
+
+movie thumbnailer (mtn)
+
+Compfight | A Flickr Search Tool
+
+Maropost | Digital Marketing Software | Email Marketing, Mobile Marketing | Maropost Enterprise Marketing
+LeadPages Software | Mobile responsive landing page generator
+
+QR Code Generator | Create QR codes for free
+
+Meteor Pack | The tools and insight you need to level up as a Meteor developer and reach peak productivity
+
+Kelas.Ruangguru
+
+Learn JS Data | Data manipulation, munging, and processing in JavaScript
+jQuery Fundamentals | A guide to the basics of jQuery
+
+Practical Meteor | You will learn something (special) about Meteor with practical live examples
+ericdouglas/Meteor-Learning | List of resources to learn this amazing platform for building top-quality web apps with JavaScript
+
+Qwant | Security, privacy and no tracking
+ZEEF | Curated Directory | Find information through people | Development & Technology Resources | Browse organized and structured lists, hand-picked by you and the community
+  Meteor JS by Renê Schneider | ZEEF
+
+Angular is a development platform for building mobile and desktop web applications
+AngularDart | Superheroic MVW Framework for Dart
+AngularConnect | The Official European Angular Conference 2015
+
+DefinitelyTyped | The repository for high quality TypeScript type definitions
+
+DreamFactory | Open Source REST API Backend | Get Powerful, Reusable REST APIs Instantly
+
+typographias | We are designing fonts.
+
+Ionic | The HTML5 Mobile Platform
+ngCordova | Simple extensions for common Cordova Plugins by the Ionic Framework Team
+
+attn: | Informing and empowering the next generation to make an impact
+
+Short of the Week | Watch the Best Short Films
+
+Gallup Strengths Center | Clifton StrengthsFinder
+  https://gallupstrengthscenter.com
+  http://strengths.gallup.com
+  http://strengthsfinder.com
+
+Findmyshift | Simple Online Employee Scheduling | Staff Roster Software | Staff Rotas
+
+Limk | Easiest Way to Show Related Content
+
+Stacks | Branded Contact Sharing
+
+CultureIQ | Company Culture Management Software | For Building High-Performance Companies | Strengthen your company culture
+
+Android Studio for Ubuntu https://paolorotolo.github.io/android-studio/
+
+Alphabet Inc.
+
+PhotoScissors Background Removal Tool | Easily Remove Background from Photos
+
+Pied Piper | A Middle-Out Compression Solution  Making Data Storage Problems Smaller
 
 
 
@@ -8038,42 +8299,27 @@ Google Polymer Designer | https://polymer-designer.appspot.com
 
 
 
-http://www.inc.com/peter-economy/7-powerful-habits-for-putting-your-people-over-profit.html
+http://google.com | http://abc.xyz | http://hooli.xyz | http://piedpiper.com
 
-Use the Fire Triangle model to illustrate our brand
-https://en.wikipedia.org/wiki/Fire_triangle
-
-#CoachingChat
-
------
-
-http://freecodecamp.com
-
-Literally berbagai link competitor hybrid-nya AMPlified
-
-*Creative HotHouse*
-http://creativehothouse.com
-https://facebook.com/CreativeHotHouse
-https://twitter.com/CHHTechnologies
-https://linkedin.com/company/chh---creative-hothouse-europe
-https://youtube.com/channel/UCIPd7nDymvRYF9zzG8a_ntw
-
-*Badr-Interactive | IT Service Company*
-http://badr.co.id
-http://badr.co.id/blog
-https://facebook.com/badrinteractive
-https://twitter.com/badrinteractive
-https://instagram.com/badrinteractive
-
-Bisa dicek berbagai optimasi promosi mereka di media (website, blog, Facebook, Twitter, LinkedIn, Instagram)
-
-Contoh cross-advertising di website:
-http://en.dokdokter.com
+Put intercom
+Put Limk
 
 
 
 
 
+
+
+
+
+http://www.niemanlab.org/2015/07/how-7-news-organizations-are-using-slack-to-work-better-and-differently/
+
+
+
+
+
+http://itsfoss.com/speed-up-slow-wifi-connection-ubuntu
+http://askubuntu.com/questions/457986/very-slow-intermittent-wifi-speeds-with-14-04-and-intel-pro-wireless-5100-agn
 
 ```
 http://makezine.com/2015/03/24/8-fpv-drone-racing-videos-put-pilots-seat/
@@ -8082,9 +8328,6 @@ http://www.boredpanda.com/white-albino-animals/
 http://www.boredpanda.com/unlikely-animal-sleeping-buddies/
 http://www.boredpanda.com/pictures-right-moment-perfectly-timed-photos/
 ```
-
-
-
 
 http://www.nytimes.com/2015/01/11/fashion/modern-love-to-fall-in-love-with-anyone-do-this.html
 http://www.nytimes.com/2015/01/11/fashion/no-37-big-wedding-or-small.html
@@ -8102,15 +8345,6 @@ Mastering the Rockefeller Habits: What You Must Do to Increase the Value of Your
 The Sandler Rules: 49 Timeless Principles and How to Apply Them | David Sandler and David Mattson
 Scaling up Excellence: Getting to More Without Settling for Less | Robert Sutton and Huggy Rao
 Concepts, Techniques, and Models of Computer Programming - Peter Van Roy, Seif Haridi
-
-http://daemon.co.za/2014/04/what-does-full-stack-mean/
-https://www.facebook.com/notes/facebook-engineering/the-full-stack-part-i/461505383919
-http://oss-watch.ac.uk/resources/briefings
-
-
-
-
-
 
 
 
@@ -8130,7 +8364,6 @@ Code Craft: The Practice of Writing Excellent Code (No Starch Press)
 Beautiful Architecture (O’Reilly, contributed one chapter
 Intro to Idea Extraction - The Foundation
 
-http://www.infoworld.com/article/2843821/google-go/10-open-source-projects-google-go.html
 Kubernetes
 Etcd and Fleet
 Deis
