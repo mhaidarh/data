@@ -3810,7 +3810,7 @@ Layar
 
 ### Static
 
-Divshot | Static Hosting and Development Platform for Web Apps
+Divshot | Static Web Hosting for Developers and Designers | Blazing fast CDN, simple CLI deployment, hassle-free test environments | Static Hosting and Development Platform for Web Apps
 Superstatic | a static file server for fancy apps
 Static Showdown | Hackathon for Static Web Apps
 
