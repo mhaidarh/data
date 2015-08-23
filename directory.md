@@ -8299,10 +8299,7 @@ Pied Piper | A Middle-Out Compression Solution  Making Data Storage Problems Sma
 
 
 
-http://google.com | http://abc.xyz | http://hooli.xyz | http://piedpiper.com
 
-Put intercom
-Put Limk
 
 
 
