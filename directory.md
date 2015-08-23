@@ -8230,6 +8230,106 @@ Name.com Domain Happy Hour: Get cheap domain names on sale!
 
 ECMAScript 6 compatibility table
 
+Hemingway Editor | Makes your writing bold and clear
+Thinkmap Visual Thesaurus | An online thesaurus and dictionary of over 145,000 words that you explore using an interactive map
+
+vis.js | A dynamic, browser based visualization library
+Timeline JS | Beautifully crafted timelines that are easy, and intuitive to use
+
+CourseTalk | Find and review the best online courses and MOOCs
+
+Appsembler | The Open edX™ Enterprise Experts : Appsembler
+
+dragula | Drag and drop so simple it hurts
+
+Echochamber.js | Commenting without the comments
+
+Mautic | Open Source Marketing Automation
+
+Gulp Fiction | Graphical editor to create your gulpfile
+
+SSLMate | Buy SSL certs from the command line | Secure your website the easy way | SSLMate makes it easy to buy, deploy, and manage your SSL certs
+
+Neuron | AI meets E-Commerce for consumer behaviour prediction | Audience Segmentation on Social Networks using AI
+mYwindow | Sell anything with just a link | Sell products in seconds
+
+PsyBlog | Psychology studies relevant to everyday life
+
+Adobe Brackets | A modern, open source code editor that understands web design.Adobe Brackets | Open-source code editor built with the web for the web | Open-source code editor built with the web for the web
+
+Feed The Bot | How to follow the Google webmaster guidelines
+  Pagespeed Optimization | The tool and optimization guide
+
+Spoon University | Food website and community for college students, with chapters on campuses across the country
+
+Screenings | Watch. Learn. Design
+
+css2sass | Convert CSS Snippets to Syntactically Awesome StyleSheets code
+
+Zenefits | Online HR Software | Payroll. Benefits. Compliance.
+
+Branch Metrics | Number 1 in Deep Links for Mobile Apps |
+  Deep links to help you optimize your growth with download measurement
+  Deep links to help you convert web visitors into app users
+  Deep links to help you grow organically with referrals and invites
+  Deep links to help you activate more users with personalized onboarding
+
+Canvas by Instructure | Learning Management System
+  Canvas Network | Free online courses | MOOCs
+Bridge | Cloud LMS | Corporate Learning Management System
+Edmodo | Where Learning Happens | Connect With Students and Parents in Your Paperless Classroom | Edmodo
+Edu Apps | EduAppCenter | An open LTI™ app collection
+eFront LMS | Train people. Better. | Enterprise Learning Management System Software | A powerful, yet simple LMS  to cover your training & skills development needs
+TalentLMS | Cloud based LMS Solution & Online Training with an emphasis on Usability and easy Course creation
+Sakai | Freely available, feature-rich technology solution for learning, teaching, research and collaboration
+SCORM
+  Tin Can API | Programmable E-learning and Experience Tracking
+OpenSesame | Online Training Courses | Employee Training
+Fedena | School Management Software & School Management Information System
+Chamilo in English | Chamilo Association website for the English speaking community around the e-learning platform
+myVLE | Learning Management System
+
+LMS | Program Generation and Embedded Compilers in Scala | A Framework for Runtime Code Generation and Compiled DSLs
+
+GoGuardian | Chromebook monitoring, filtering and Theft Recovery for schools.
+
+Kaltura Video Platform | Open Source Video
+
+Vanity URL Shorteners | Custom URL Shorteners
+
+Socrative | Visualizing student understanding has never been clearer
+
+Stretchy | Form element autosizing, the way it should be
+
+wicd | A network connection manager that aims to simplify wired and wireless networking in Linux
+
+Deku | Functional view library for building UI components as an alternative to React
+
+/dev/null as a Service
+
+Sato.sh | Sharing rewarded!
+
+CitizenLab | A civic engagement platform for cities | Empower your citizens to co-create their city
+
+Fairphone | Buy a phone, join a movement
+
+oVirt | Open Your Virtual Datacenter
+
+GTmetrix | Website Speed and Performance Optimization | Analyze your site’s speed and make it faster
+Zoompf | Web Performance Optimization for the Enterprise
+Siteliner | Find Duplicate Content on your site
+
+Optimizilla | Ultimate Image Optimization
+PDF Compressor | Compress PDF Files Online
+
+NGINX | High Performance Load Balancer, Web Server, & Reverse Proxy
+
+Xendit | Send money quickly | The friendliest way to pay and get paid
+
+Name.com Domain Happy Hour: Get cheap domain names on sale!
+
+ECMAScript 6 compatibility table
+
 movie thumbnailer (mtn)
 
 Compfight | A Flickr Search Tool
@@ -8303,6 +8403,11 @@ Fizzle | Honest Video Training for Online Business Builders
   Fizzle Blog | The Sparkline — A Blog for Creative Entrepreneurs
   Fizzle Podcast | The Fizzle Show — A Podcast for Creative Entrepreneurs
 
+Alphabet Inc.
+
+PhotoScissors Background Removal Tool | Easily Remove Background from Photos
+
+Pied Piper | A Middle-Out Compression Solution  Making Data Storage Problems Smaller
 
 
 
@@ -8312,11 +8417,7 @@ Fizzle | Honest Video Training for Online Business Builders
 
 
 
-
-
-
-
-
+http://www.niemanlab.org/2015/07/how-7-news-organizations-are-using-slack-to-work-better-and-differently/
 http://itsfoss.com/speed-up-slow-wifi-connection-ubuntu
 http://askubuntu.com/questions/457986/very-slow-intermittent-wifi-speeds-with-14-04-and-intel-pro-wireless-5100-agn
 
