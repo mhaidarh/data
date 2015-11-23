@@ -1,6 +1,5 @@
 Directory Add
 =============
-
 created diretory since July 2013
 
 The Noble Qur'an | القرآن الكريم | Quran.com
@@ -460,7 +459,7 @@ GoToMeeting | GoToWebinar | GoToTraining | Easy Online Meetings With HD Video Co
 Hexabones | Framework for building PrestaShop themes
 Coderbits
   Coderbattle | Battle your fellow coders!
-GitHub
+GitHub | GitHub is how people build software. Developers can discover, use, and contribute to projects using a powerful development workflow | The GitHub platform provides powerful collaboration, code review, and code management for open source and private projects
   GitBattle | Battle two Github accounts
 Clef | stop using passwords | mobile app that replaces usernames and passwords with your smartphone | new way to identify yourself on the web with your smartphone
 A Manifesto for Post Modern Sales
@@ -4567,7 +4566,6 @@ ipinfo.io | IP Address Details
 
 Experfy | Big Data Consulting | Analytics Consulting | Big Data Jobs | Data Science Jobs | BI Developer
 
-Wave | Small Business Accounting Software
 Jappix | Free social network
 Closed Club | Find Closed Down Startup Products
 Rico | Turns your spare smartphone into a fully loaded smarthome security device
@@ -6861,7 +6859,7 @@ We Work Remotely | Remote Jobs: Design, Programming, Rails, Executive, and more
 Campayn | Simple Email Marketing
 SendinBlue | Online Email Marketing & SMS Marketing solution
 
-Holacracy | Social Technology for Purposeful Organization
+Holacracy | A complete system for self-organization | Social Technology for Purposeful Organization
 
 Kodi | Open Source Home Theatre Software
 Plex Media Server | Plex.tv | Your Media on all of Your Devices
@@ -7773,7 +7771,7 @@ Coverr | Beautiful, free videos for your homepage
 
 Learnable | Become a better developer | Online learning for web designers and developers
 
-Tinypass | The business platform for digital media
+Piano + Tinypass | The business platform for digital media | The business platform for digital media
 
 hacker.org | The Hacker Community Online
 Hack VM | A Virtual Machine for Hackers
@@ -8409,6 +8407,687 @@ PhotoScissors Background Removal Tool | Easily Remove Background from Photos
 
 Pied Piper | A Middle-Out Compression Solution  Making Data Storage Problems Smaller
 
+Ninja | A small build system with a focus on speed
+makerlog | code, art, robots, & people
+Momentum Global Partners
+OpenAddresses | The free and open global address collection
+Matrix.org | A new basis for open, distributed, real-time communication
+CTAG | Community Top Level Domains Applicants Group
+Matrix.org | A new basis for open, distributed, real-time communication | An open standard for decentralised persistent communication
+Roomarama | Short Term Rentals, Vacation Rentals, Weekly or Monthly Holiday Accommodation
+coderwall.com | Establishing geek cred since 1305712800
+Startup Retreats | Find Coworking Vacations and Coliving Spaces
+Project "Seen"
+Office Holidays | A calendar of public and bank holidays around the world
+Ubco | The Utility Bike
+Helpmonks | Team Email Management, Distribution List, Shared Inbox
+Stacks.co | Branded Contact Sharing
+DocSend | Simple, intelligent, modern document sending
+i3 | Improved tiling wm
+Event Farm | Event Marketing Software
+Google OnHub
+onthe.io | https://onthe.io
+  Metrics Intelligence with t.onthe.io
+artodo.co.id | Crowdfunding art & musik
+eFishery | The Smartest Fish Feeder
+
+Octotree | Browser extension to display GitHub code in tree format
+GitHub Awesome Autocomplete | Add instant search capabilities to GitHub search box | https://github.algolia.com
+GitHub Linker | Links NPM, bower, Composer & Duo dependencies to their GitHub repository page
+
+El Robot | The best startup resources, in #Slack | try.elrobot.info
+Slide.li | Second Screen App for Presentations
+
+Pawoon | Aplikasi kasir berbasis online (Cloud)
+Cermati | Bandingkan Kartu Kredit, Pinjaman, Tabungan dan Promo Terbaik
+AFFORIA | Making E-Commerce Easy
+
+CreatorStats | Next Level YouTube Analytics
+LINE HERE | Check where your family and friends are, whenever and wherever you want
+Life360 | The New Family Circle
+
+Blot | The easiest way to blog | Blot creates a folder in your Dropbox and publishes files you put inside
+Typeset.js | An HTML pre-processor for web typography
+
+Learn Yourself Some Chef by pikesley | Steps to Chef enlightenment
+Open Mining | Business analytics and business intelligence leaders
+
+Open Data Institute
+  ODI Open Data Certificate
+CSV Lint | Check your CSV files with CSVLint
+
+Vim Bootstrap | A generator which provides a simple method of generating a .vimrc configuration for vim
+
+CPA on Fire | Accounting Tips, Resources, & Services for Entrepreneurs
+Intuit QuickBooks | Accounting Software for Small Business
+FreshBooks | Online Invoicing, Accounting & Billing Software
+Plastiq | Pay for tuition, taxes, utilities and more with credit card
+Wave | Small Business Accounting Software
+
+UX Community on Slack | Join the UX Slack Community
+#smallbiz | A chat community for small businesses
+#people | A Slack community for people operations, hr professionals, building better companies and managing humans
+slashrocket | a developer community | slashrocket is a friendly, inclusive community for developers of all skill levels and disciplines
+hashtag startup | #Startup | The global startup community, on Slack
+Startup Study Group | Global community. Job creation. Startups as a Second Language.
+  ssg.space | startup founders & investors ht @sromo16 @rafaecheve
+AppMixture | Your Business. Your App. | With a single click your store becames a native mobile app
+
+The Slack Post | Post all the useful links from Slack in a simple public newspaper
+Good Audience | Social Media Marketing Assistants
+Equity Directory | The invite-only network of entrepreneurs and startup talent exchanging work for equity
+Meekan | Connecting the world's calendars
+
+Notify | Get notified on Slack Whenever your Startup gets mentioned
+Pipe.DataStack.co
+thevc.club | VC Club | Venture Capital community on Slack
+Spaces | All-in-one documents for teams
+DataStack | Create powerful analytics dashboards for all your data with no programming
+Slack List | A handpicked selection of top Slack communities
+Tarifah | Customer Engagement Redefined
+Slack Chats | chitchats.co
+Startup Foundation | Supporting founders build more successful startups
+HackerX Events | Where developers meet startups
+StartupBus | Become a Buspreneur!
+Firmhouse | Builds foundations for innovation & new business
+
+Elevio | Contextual support widget. Support your users while reducing your support load | Educating your users, when and where it's needed most
+Room | Instant video calls | Get face-to-face within seconds
+TopChart | The Best Things in Lists | Crowdsourced, simple, upvotable lists
+GigaSpaces | XAP In-Memory Computing software platform | Cloudify - Deploy, Manage & Scale your apps on the cloud
+CREATIV | Share stories about the inspiration behind your creative moments
+emaze | Online Presentation Software | Create Amazing Presentations
+
+Apploi | Search and Apply for Jobs in Seconds
+
+VPN.ht | Anonymous VPN Service
+
+[write.pls] A curated list of articles to help you write better and publish online.
+
+Agile Campus | Increase Business Agility | One Place to Improve Your Organization Happiness, Agility, & Result | Providing Free Educational Contents & Talent Pool Services
+Hari Komunitas Nasional | harikomunitas.id
+Karejo | Info Lowongan Kerja Terbaru Agustus 2015 di Seluruh Indonesia
+SkolaFund | Crowdfunding Scholars
+
+Appery.io | Enterprise Mobile App Builder & MBaaS | The only cloud-based platform with visual development tools and integrated backend services
+
+eEvent | Higher attendance. Happier attendees | Honors your guests as ambassadors to share, recommend and invite others to your events
+Eventful | Events and things to do - concerts, movies, comedy
+
+Balkonie | Discover, Plan and Build Your Next Home Project
+Fabelio | Beli Furniture Online: Sofa, Rak, Meja, Kursi
+LIVAZA | Affordable Home and Office Furniture Online Store
+Rooang | Desain Model Interior Eksterior Rumah Idaman Modern Minimalis | Inspirasi Ruang dan Warna
+
+CreativeMornings | Breakfast lecture series for the creative community
+HackerNest | Uniting local tech communities globally
+lingkaran | A Circle of Creative Sharing Community
+
+Elevator.js | Fixes those awkward "scroll to top" moments the old fashioned way
+
+Royalty Free Music by Bensound | Creative Commons Music
+
+TorqueBox Ruby Platform
+Celluloid | Actor-based Concurrent Objects for Ruby
+ProjectOdd
+JBoss Developer | The simple, modern and productive way to build apps and infrastructure.
+
+Ionic Marketplace | Templates, scripts, add-ons, and resources for your hybrid Ionic app
+
+The Hustle | Your excuse to do epic
+
+Font Flame | Tinder for font pairing
+
+Obi Worldphone
+
+Harvest | Simple Online Time Tracking Software
+Cushion | Peace of mind for freelancers
+
+TripleCurve | Quality Enterprise Content
+
+Sunsama | The World's Time Network
+
+Startupkit | How to start a startup | Your knowledge is your power | The most efficient way to improve your entrepreneurial skills and learn how to build a great company
+
+EquityZen | Where Private Investors Access Proven Startups
+
+Podbay.fm | Stream any podcast in the universe quickly and easily.
+
+Spendee | See where your money goes
+
+Encore | An easier way to develop mobile apps for your company
+FounderBliss | A beautiful way to track your ROI on software development | The best way to track the performance of your developers
+
+Vizor | Build compelling VR experiences right in your browser
+
+One Hour Translation | Translation Services
+
+BudgetBakers | Home finance with no stress
+
+Scratch JS | Run JS in Chrome from your transpiler of choice
+STF | Smartphone Test Farm
+Open STF | Smartphone Test Farm | Control and manage Android devices from your browser
+
+Workfront (AtTask) | Project Management Software
+
+Cheersfriends | Friends like never before
+
+AndroidKickstartR | Start your next Android app in 10 seconds
+Web App Boilerplate | Building Web Apps in WebView for Android
+
+DISC Personality Testing
+
+Icons Design | Vector icons for designers and developers
+
+Ticketbase | Ticketing Reinvented | We help make great events happen
+
+Trailmix | A private place to write | trailmix.life
+
+Readium | Digital Publishing meets Open Web
+
+KeyTouch | Unlock, lock and enter your password on your Mac with Touch ID
+
+Meteor Club | Get the best tips and tricks for Meteor.js delivered weekly to your inbox
+
+ThoughtWorks Mingle | Project Management Software | Project management tool that enables companies of all sizes to implement and scale agile practices
+
+Being Agile in Business | Belinda Waldock| BEING AGILE – Smarter, leaner, faster ways to succeed in business
+
+Agile IT Organization Design
+
+BuzzSumo | Find the Most Shared Content and Key Influencers | Analyze what content performs best for any topic or competitor | Find the key influencers to promote your content
+
+FightMediocrity | Big Ideas for a Better Life
+
+Ellevate | A global professional women's network
+
+Breezy HR | A uniquely simple, visual recruiting tool you and your team will love.
+
+Paymentwall | Global Digital Content Distribution Platform
+
+Pancake app | Online invoicing, time tracking and project management software
+
+Dasheroo | Free Business Dashboards Done Right
+
+Nextbit | The only cloud-first smartphone | It gets smarter everyday and makes running out of space history
+
+Is it maintained? | Check the activity of open source projects
+
+LawCanvas | Easy Legal Documents for Singapore
+Unified Inbox | Simply Communicate | Welcome to the Future of Communications
+
+CloudKilat | Layanan Komputasi Awan dan Cloud Hosting Cepat, Tanpa Ribet, Tanpa Mahal
+
+Open Library | One web page for every book
+
+10,000 Year Clock
+
+Dale Callahan | Company of One
+Lebsontech LLC | User Experience (UX) Strategy, User Research & Evaluation, Workshops & Trainings
+
+SpeakPipe | Receive voice messages from your audience directly on your website
+
+The Debian Administrator's Handbook
+
+Arpeggio | Tangible Instruments | The first dedicated arpeggiator and sequencer in one portable device | A simple instrument for composing, saving, and performing melodies
+
+Readability | A Free Web & Mobile App for Reading Comfortably
+
+Input | The cloud console | Get more done, faster | Quickly capture information and take actions without hunting and pecking through a bunch of different apps
+
+Mylo | The Simplest Way for Men to Dress Well | Menswear Made Simple | The One-Touch Staples Shop That Helps You Dress for Any Occasion
+
+ContentForest | SEO-Led Content Marketing Software
+  ContentIdeator | Blog Topic, Title & Ideas Generator
+
+Userscloud | Free Unlimited Cloud Storage
+
+Retrium makes distributed sprint retrospectives easy and effective!
+
+ProsperWorks | The Simple CRM for Google Apps
+
+media.io | Online Audio Converter (MP3, WAV, Ogg, WMA, M4A, AAC)
+Flacon | Audio File Encoder
+
+Git2Go | The Git client for iOS you always wanted
+
+Basscss | Low-level CSS toolkit | Lightning-Fast Modular CSS with No Side Effects
+
+IndonesiaX | Ikuti berbagai kursus menarik dari universitas dan institusi terbaik, secara gratis
+
+DiANA | Jasa Asisten Pribadi Virtual Profesional
+
+Future of Storytelling | Reinventing the way stories are told
+
+UP Global | An organization dedicated to fostering entrepreneurship, grassroots leadership, and strong communities
+Transformaking | The International Summit on Critical and Transformative Making
+
+The Proto Awards
+
+30x500 | Build and launch a profitable product business without venture capital
+
+Product Launch Formula
+
+ClickFunnels™ | Marketing Funnels and Landing Pages that Convert
+
+ALLTOPSTARTUPS | Startup business ideas and resources for entrepreneurs
+
+Polygit | Polymer Magic Server
+
+FlatIcon | Free vector icons | SVG, PSD, PNG, EPS & Icon Font | Thousands of Free Icons
+
+Mapsense | Data-Driven Mapping | Maps for the era of connected devices
+
+Axosoft GitKraken | Git GUI Client for Windows Mac and Linux
+
+CrowdTangle | The easiest way to keep track of what’s happening on social media
+Storyful. | Engage your audience with verified social content and insights.
+
+Spacehype | Discover your perfect space
+
+Corrello | Trello dashboards for agile teams | A high level view of your Trello boards, making you awesome at managing projects with Trello
+
+start A FIRE | Get the full value from curated content you share on social media
+
+git-radar | A heads up display for git
+
+branded.me | Personal Websites | Create a Personal Website in Seconds
+
+AddThisEvent | Add to Calendar button, a Subscribe to Calendar button and Event Management
+
+Coverr | Beautiful, free videos for your homepage
+Veed.Me | Video Production Marketplace
+CodersClan | Get Code Done
+
+Verge Solutions | Healthcare SaaS Solutions
+Dr. M Hope | Hospital Management System Software
+
+Varianto:25 | The devs choice for apparel and entertainment
+
+growthtools.io | Growth Hacking Tools | The best damn way to search and discover growth hacking tools on the planet
+
+Cloudstitch | Powers web pages with Google Docs | It's the CMS your clients already know how to use
+
+Planscope | Win more contracts, get your team and clients on the same page, and find out how you can create a better business.
+
+Google Contributor
+
+Riliv | The Peace of Mind Social Network
+
+Raxe | An awesome mix between Haxe and Ruby | Raxe is open source, cross-platform and compiles to Haxe without any performance penatly and runtime library
+
+Juju Charms | Welcome to the Juju charm browser
+
+ARCA | Cash Automation | Cash Recycling
+Precision Nutrition | Nutrition Coaching and Certification
+
+Amazemeet | Amazing meetings for everyone
+Hoop.la | Online Community Software Platform
+
+Hitchhikers Guide to Github Universe
+
+Google Style Guides | Style guides for Google-originated open-source projects
+
+Quiet Revolution | Unlocking the Power of Introverts
+
+Developer Economics | Fact-based insights to help developers choose the right platform, tool or API and build a scalable business
+
+Transformicons | Animated icons, symbols and buttons using SVG and CSS
+
+annyang! | Speech Recognition that just works | Easily add speech recognition to your site
+UpUp | The Offline First Library | a tiny script that makes sure your site is always there for your users
+
+Happy Melly | Global network of businesses focusing on how to be Happy at Work
+Fun Retrospectives | Activities and ideas for making agile retrospectives more engaging
+
+elevio | Educating your users, when and where it's needed most | Contextual support widget. Support your users while reducing your support load | Educating your users, when and where it's needed most
+
+Asana | Move work forward
+
+Evolving Organisation
+Conscious Collaboration
+
+ArtRage | Natural Painting Software
+
+ChatWork | Simplify Business Communications
+Solid | The easiest solution for productive business meetings
+
+Freedom of the Press Foundation
+
+Top Management Degrees | Management Degree Program Rankings & Reviews
+
+Tachyon | Memory-centric distributed storage system enabling reliable data sharing at memory-speed across cluster frameworks
+
+Swarm.js | Reactive data sync middleware | JavaScript replicated model (M of MVC) library
+Cycle.js | A fully reactive JavaScript framework for Human-Computer Interaction
+mori | A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript
+Immutable.js | Immutable collections for JavaScript | Immutable persistent data collections for Javascript which increase efficiency and simplicity
+
+appback | Hassle-free App Backend | Instantly add a backend to your mobile hybrid or web app! | Offline first, NoSQL based, and 100% pure Javascript
+
+Mondo Rescue | GPL disaster recovery solution
+
+Issue Stats | Analyze and compare how long it takes for Github issues to be closed
+
+SDKMAN! | the Software Development Kit Manager
+
+Sahi | Automation Testing Tool For Web Applications
+
+Twenty20 | Showcase, Discover, and Buy the Best in Mobile Photography
+
+Rocket.Chat | The ultimate Open Source web chat platform
+
+Jojonomic
+
+CLIPS | A Tool for Building Expert Systems
+  PHLIPS | PHP Extension
+Jess | The Rule Engine for the Java Platform
+Drools | Business Rules Management System (Java™, Open Source)
+Python Knowledge Engine (PyKE) | A form of Logic Programming (inspired by Prolog) to the Python community by providing a knowledge-based inference engine (expert system) written in 100% Python
+
+fxguide | vfx, mograph, and production news
+
+Relay | A JavaScript framework for building data-driven React applications
+Falcor | One Model Everywhere | A JavaScript library for efficient data fetching
+
+Codecademy | Learn to code
+
+Simple Turtle | Online courses to build your business
+
+Piazza | Ask. Answer. Explore. Whenever.
+  Piazza Careers | College Recruiting Platform
+
+Peerstudio | Go beyond a gradebook with deep peer feedback that arrives in minutes, not days
+
+Designs.net | Templates, Themes, Logos, Fonts and More
+
+OpenTok | WebRTC Platform for Video, Voice and Messaging from TokBox
+
+Templana | Pre-built templates for Asana | The power of Asana into simple templates
+
+Docracy | Free Legal Documents
+
+Aurous | Free Music, Whenever, Wherever
+vidme | simple video upload
+
+BitRock | Package and deploy apps natively, virtually and to the cloud.
+  Cross Platform BitRock InstallBuilder | Multiplatform Installer Tool
+
+Viral-Loops | Mastering the Engine of User Adoption
+
+Carthage | A simple, decentralized dependency manager for Cocoa
+vandadnp/iOS-8-Swift-Programming-Cookbook | GitHub repository of O'Reilly's iOS 8 Swift Programming Cookbook
+
+Flip | Free interbank transfer for everyone
+
+Sprintboards | A Simple & Clean Project Status Report Template for Asana users
+
+RelateRocket | Your Customer List + Us = Relatable Content
+Reindex | Instant GraphQL Backend for Your React Apps
+
+Parent Hacks | Forehead-smackingly smart tips for family | Tips for living your best family life
+
+Dust.js by LinkedIn | JavaScript templating engine
+
+Zulip | Powerful open source group chat
+Discord | Free Voice and Text Chat for Gamers
+
+Casper | Better Sleep for Brighter Days
+
+Commitizen | Simple commit conventions for internet citizens
+
+Shields.io | Quality metadata badges for open source projects
+
+OpenGov | Government Financial Intelligence & Transparency
+
+StandardJS | JavaScript Standard Style | One Style to Rule Them All
+JavaScript Happiness Style | Standard customised to make me happy
+Flycheck | Syntax checking for GNU Emacs
+
+filldisk.js | Fill up your hard disk with just a single click, using HTML5 localStorage! | Masterful trolling with HTML5 localStorage
+
+Hummingbird Robotics Kit
+The Finch | A Robot Designed for Computer Science Education
+
+TechSoup Asia | The technology place for nonprofit and charitable organisations
+
+Raise Your Flag | Awesome careers that don’t require college
+
+Design Disruptors by InVision | Documentary about the rising importance of design as a competitive advantage in disruptive technologies. Learn about the design process and product designers at the world's most disruptive products, like Google, Twitter, Airbnb, Spotify, and more
+
+Open Innovation Community
+
+Sentimental Versioning by Dominic Tarr
+whatthecommit.com | Commit Message Generator
+
+Spaceship | join beyond | Exploring worlds no rocket has ever seen. This is what you can accomplish.
+
+Elegantt | Take care of your team
+
+Revue | Your weekly digest. Automated.
+
+FoodTruckr | How to Start and Run a Successful Food Truck Business
+
+MicroConf | The Conference for Self-funded Startups and Single Founders
+
+Docido | Cloud Enterprise Search
+
+Chats.Directory | A curated list of the best private Slack groups for professionals
+FEDs on Slack | A Community of Top-notch Front End Developers on Slack
+
+uiux.community | UIUX DESIGN
+
+Silicon Valley Historical Association
+
+Guides.co | Better How To Guides
+
+packagecloud | Hosted repositories for Debian, RPM and Gems | Manage and Distribute Software
+
+Mybridge | Learn a new skill in Tech | Fastest way to discover knowledge in the tech industry
+
+demongin.org | nginx with nginx-auth-ldap on CentOS
+ldapjs | Pure JavaScript, from-scratch framework for implementing LDAP clients and servers in Node.js
+restify | Node.js module built specifically to enable you to build correct REST web services
+EJBCA | Open Source PKI Certificate Authority
+OpenCA PKI Research Labs
+
+When Active | Target your tweets to the right people at the right time
+
+Interviewed | A growing database of podcast interviews
+
+OpenHacks | Open Source Hardware
+OpenHack | Code together | Meetup with a simple purpose: Code together, on anything | OpenHack works by hosting a meetup in your city that gets programmers of any experience level together to code
+
+Bacon.js | Functional Reactive Programming library for JavaScript
+Highland.js | The high-level streams library for Node.js and the browser
+
+CAcert.org | Community-driven Certificate Authority that issues certificates to the public at large for free
+
+GoodBarber | Create apps with the best app builder for iPhone and Android
+
+Findie | Watch Better | Discover the world’s best cinematic videos
+
+StartupBlink | Global Startup Industry Map
+
+Cozora | Belajar apapun, dimanapun dan kapanpun online
+
+Nearby Live | Meet Local People | Local, Fun, and Anonymous.
+
+Kyber | Messaging to make it happen | Make things happen with the people you care about
+MyFitnessPal | Free Calorie Counter, Diet & Exercise
+
+Noisli | Improve Focus and Boost Productivity with Background Noise
+SoundShade | Relaxing Nature Sounds | Focus & Sleep Aid
+Ambiance | Relax Anywhere
+Thunderspace | Unwind in a thunderstorm
+TMSOFT | Official Home of White Noise
+
+ThingStudio | Real-Time User Interfaces for the Internet of Things
+Nitrokey | Secure your digital life
+
+Upthere | A new computer is emerging from the cloud
+
+Speedlancer | Super fast, high quality design, writing & data entry/research!
+  Shido | The Slack Bot That Gets Things Done for You
+
+Gingko App | Let Your Writing Flow | Tree documents for clarity, focus and flow
+Carrot Search | Document clustering and visualization software
+  Carrot Search Labs | Small useful pieces of software
+  Carrot2 | Open Source Search Results Clustering Engine
+  Carrot Search FoamTree | JavaScript Voronoi treemap
+
+Quiver | Meet People Through Friends
+
+Primer | Marketing Lessons from Google
+
+verb | Open-source, cross-platform NURBS
+
+Page2Images | Website Screenshot Generator & API
+Timeline JS | Beautifully crafted timelines that are easy, and intuitive to use
+ChartBlocks | Online Chart Builder | The online chart building tool | The world's easiest chart builder app | Design and share a chart in minutes
+
+Crosswalk | Build world class hybrid apps | Enable the most advanced web innovations with the Crosswalk Project web runtime to develop powerful Android and Cordova apps | Open source HTML5 runtime to build world-class hybrid apps
+
+Let's Chat | Self-hosted chat for small teams
+Mattermost | An open source, self-hosted Slack-alternative
+Shout | The self-hosted web IRC client
+
+Hugin | Panorama photo stitcher
+
+cryptography | Python library which exposes cryptographic recipes and primitives
+FIDO Alliance | FIDO (Fast IDentity Online) Alliance plans to change the nature of authentication by developing specifications that define an open, scalable, interoperable set of mechanisms that supplant reliance on passwords to securely authenticate users of online services
+
+Organization Design Forum | Organization Design practitioners share knowledge, create community, and promote excellence in practice to help organizations around the world be more effective, successful, and inspiring places to work
+
+RightSignature | Sign Documents Online, Electronic Signature, e-Signature
+
+Erle Robotics | Bringing the next generation of robotic brains | Bringing the next generation of robotic brains
+
+ArduPilot | Open source autopilot | APM Plane, APM Copter, APM Rover
+
+TiCons | Generate all icon & splash screens for your Titanium app from just 2 or 3 files!
+
+Silktide | We're reinventing work | Artificial intelligence to make you and your company more productive
+Cookie Consent | The most popular solution to the Cookie Law
+
+re:Work | Let's Make Work Better | Practices, research, and ideas from Google and other organizations to put people first
+
+Carina by Rackspace | High-performance, instant-on Docker containers | An easy-to-use, instant-on, native container environment
+
+NEXT | The future of transportation | Advanced smart mobility system based on a swarm of modular self driving vehicles running on regular roads and capable of joining
+
+Tinybop | Toys for Tomorrow | Play & learn with our award‑winning apps for kids
+
+OpenBCI | Open-source kit used to sample electrical brain activity (EEG), muscle activity (EMG), heart rate (EKG), and more
+
+Wedgies | Polling made simple | The easiest way to poll online | Online Polling | Polls | Survey Tools
+Screensaver Ninja | Never miss important information again
+
+cloudControl | Cloud App Platform » Supercharge development and scale applications in the Cloud | Build, deploy and scale apps – not infrastructure
+
+LTSP | Linux Terminal Server Project
+
+Twine | An open-source tool for telling interactive, nonlinear stories
+
+map-what | &what | Discover Unicode & HTML Character Entities
+
+RestMQ | Redis based message queue
+
+ZeroDean.com | Motivation, Entertainment, Comics, Art, Photography…
+Zerosophy | Written works by Zero Dean to motivate, encourage, challenge & inspire.
+Zero Talking | Humor & awkward moments by Zero Dean based on weird thoughts & real-life experiences often presented in webcomic format.
+Zerography | Art, videos & photography by Zero Dean
+
+Feedbooks | Free eBooks and Best Sellers
+
+Whoozin | Free RSVP Online | Track RSVP’s and Sell Tickets for your events and recurring meetings
+
+Carbon Copy Cloner | Mac Backup Software
+
+Rysta | WiFi connected sensors. Plug-and-play, open source
+Proximi.io
+
+Trigger.io | Mobile platform for web developers | The simplest way to build amazing mobile apps
+
+rabbit.js | Messaging for Node.JS made easy
+
+Wheelhouse | Automating Mentorship | Level up your team with scalable, personal training for enterprise software development teams
+
+QuizUp | The Biggest Trivia Game in the World
+  QuizUp at Work | Employee Learning Made Fun
+
+Page.js | Micro client-side router inspired by the Express router
+
+TensorFlow | Open Source Software Library for Machine Intelligence | Open source software library for numerical computation using data flow graphs
+
+Refold | Portable Cardboard Standing Desk
+
+Mozart Programming System | Combines ongoing research in programming language design and implementation, constraint logic programming, distributed computing, and human-computer interfaces
+
+Adblock for iOS | Block ads on iPhone and iPad
+
+MyEdu | Find Internships | Class Schedule Maker | Professor Reviews
+ac4d | Austin Center for Design
+
+Kami | Online Office Tools
+
+YesBoss | Your Personal Virtual Assistant
+Diana | Jasa Asisten Pribadi Virtual Profesional
+
+FireChat by Open Garden Inc
+
+Relaxing music by relaxdaily
+
+iOctocat | GitHub iOS App | GitHub for iPhone and iPad | iOS client for GitHub.com
+
+Brainscape | Find, Create, & Study Smart Flashcards
+Teachers.io | Plan your schedule, organize your classes and share with students
+
+Cockpit CMS | An API-driven CMS without forcing you  to make compromises in how you implement your site
+
+GitBook | Writing made easy
+  GitBook Enterprise
+
+beefy | A tiny browserify server | High quality, free range JavaScript | local development server that aims to make using browserify fast and fun
+
+Component Kitchen | Web components accelerate app development
+CustomElements.io | Explore the world of Web Components
+Amaze UI | A mobile-first and modular front-end framework | 中国首个开源 HTML5 跨屏前端框架
+
+zshthem.es | Search for an oh-my-zsh theme name, or view the gallery, or use j and k to browse
+
+Deployinator | Deploy code like Etsy
+StatsD | Simple daemon for easy stats aggregation
+Logster | Generate metrics from logfiles | Parse log files, generate metrics for Graphite and Ganglia
+
+
+OpenX | Online Advertising Technology to Maximize Ad Revenue
+
+Riot.js | A React-like user interface micro-library
+
+QuantifiedCode | Automated, data-driven code review for Python
+
+Kue | Feature rich priority job queue for node.js backed by Redis | Priority job queue backed by redis, built for Node.js
+STOMP | The Simple Text Oriented Messaging Protocol
+RSMQ | Redis Simple Message Queue | A lightweight message queue for Node.js that requires no dedicated queue server, just a Redis server
+Tarantool | A NoSQL database running in a Lua application server
+
+SmartMeter | Performance Testing with Enterprise-Level Features with a familiar jMeter interface
+Yandex Tank | Load and performance benchmark tool
+
+gittask | Build things faster | Get expert help on your coding tasks | Marketplace for connecting people that need to get coding tasks done with developers who can complete these tasks
+
+MalesCast | Screencast web development buat programmer males
+
+Fixer.io | Foreign exchange rates and currency conversion JSON API | JSON API for foreign exchange rates and currency conversion
+
+HalalData | It's a database of halal food around the world created and collected by people like you and free to use under an open license
+
+Notifuse | An API/platform to send smart notifications on every channels
+
+Blogo | Desktop blogging app for Mac - Blogo
+
+alertify.js | Simple browser dialogs
 
 
 
@@ -8416,39 +9095,58 @@ Pied Piper | A Middle-Out Compression Solution  Making Data Storage Problems Sma
 
 
 
+
+
+
+
+
+
+
+---
+
+https://github.com/juarezpaf/ionic-adventures
+https://help.github.com/articles/remove-sensitive-data
+
+http://livestre.am/5bXvu
+http://livestre.am/5dDaW
+http://livestre.am/5dYn9
+
+http://www.meetup.com/Meteor-Jakarta/events/drafts
+
+https://notifuse.com
+https://scontent-yyz1-1.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/12227703_937188353037911_6034047367873105092_n.jpg
+http://blog.heroku.com/archives/2015/11/10/node-habits-2016
+
+https://medium.com/@rahmatawaludin
+
+https://learn.wheelhouse.io/events/early-access/screens/490
+https://rework.withgoogle.com/guides/hiring-use-structured-interviewing/steps/introduction/
+https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/
+http://www.inc.com/thomas-koulopoulos/one-thing-steve-jobs-did-at-apple-that-will-instantly-improve-your-productivity.html
+
+https://www.namecheap.com/domains/registration/results.aspx?domain=mhaidarhanif
+
+Recommended readings :star:
+https://rework.withgoogle.com
+https://rework.withgoogle.com/guides
+https://rework.withgoogle.com/blog/lets-make-work-better
+
+My own company, Agnium, Google, Bocoup, Medium, AngelList, CrunchBase
 
 http://www.niemanlab.org/2015/07/how-7-news-organizations-are-using-slack-to-work-better-and-differently/
 http://itsfoss.com/speed-up-slow-wifi-connection-ubuntu
 http://askubuntu.com/questions/457986/very-slow-intermittent-wifi-speeds-with-14-04-and-intel-pro-wireless-5100-agn
 
-```
+http://www.lucianofiandesio.com/vim-configuration-for-happy-java-coding
 http://makezine.com/2015/03/24/8-fpv-drone-racing-videos-put-pilots-seat/
 http://www.boredpanda.com/funny-duck-cartoon-fowl-language-comics-brian-gordon/
 http://www.boredpanda.com/white-albino-animals/
 http://www.boredpanda.com/unlikely-animal-sleeping-buddies/
 http://www.boredpanda.com/pictures-right-moment-perfectly-timed-photos/
-```
 
 http://www.nytimes.com/2015/01/11/fashion/modern-love-to-fall-in-love-with-anyone-do-this.html
 http://www.nytimes.com/2015/01/11/fashion/no-37-big-wedding-or-small.html
 
----
-The Startup Owner's Manual
-
-People Over Profit: Break the System, Live with Purpose, Be More Successful - Dale Partridge
-Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything | Guy Kawasaki
-The Entrepreneur's Guide to Business Law | Constance Bagley and Craig Dauchy
-Getting More: How You Can Negotiate to Succeed in Work and Life | Stuart Diamond
-The Innovators: How a Group of Hackers, Geniuses and Geeks Created the Digital Revolution | Walter Isaacson
-Open Innovation: The New Imperative for Creating and Profiting from Technology | Henry Chesbrough
-Mastering the Rockefeller Habits: What You Must Do to Increase the Value of Your Fast-Growth Firm | Verne Harnish
-The Sandler Rules: 49 Timeless Principles and How to Apply Them | David Sandler and David Mattson
-Scaling up Excellence: Getting to More Without Settling for Less | Robert Sutton and Huggy Rao
-Concepts, Techniques, and Models of Computer Programming - Peter Van Roy, Seif Haridi
-
-
-
-```
 chartist-js
 strawbees kit
 Mou Sukoshi - Atsumi Saori
@@ -8491,10 +9189,7 @@ skanect
 reconstructme
 
 Dokku
-```
------
 
-```
 http://isometricmaps.com
 ISO20OFF
 
@@ -8502,25 +9197,16 @@ prezto
 antigen
 pure
 
-```
 http://nodeframework.com
 http://rocketship.fm
 http://mindmeld.io
-```
-```
+
 http://bit.ly/freetrello
-http://bit.ly/freeumano
 http://bit.ly/freecharlieapp
 
 http://www.instructables.com/id/Interactive-Origami-Sculpture/
 https://futureself.orange.com/
-```
 
-
-
-
-*  *  *  *  *
-```
 slop | maim
 vim
   surround
@@ -8529,29 +9215,10 @@ vim
   mru
   fuzzyfinder
   matchit
-http://www.useronboard.com/how-trello-onboards-new-users/
-http://www.useronboard.com/how-slack-onboards-new-users/
-http://www.useronboard.com/how-optimizely-onboards-new-users/
-http://www.useronboard.com/how-pinterest-onboards-new-users/
-http://www.useronboard.com/how-pocket-onboards-new-users/
-http://www.useronboard.com/how-quora-onboards-new-users/
-http://www.useronboard.com/how-shopify-onboards-new-users/
-http://www.useronboard.com/how-tumblr-onboards-new-users/
-http://www.useronboard.com/how-twitter-onboards-new-users/
-http://www.useronboard.com/how-vimeo-onboards-new-users/
-http://www.useronboard.com/how-whatsapp-onboards-new-users/
-http://www.useronboard.com/how-yo-onboards-new-users/
 
 tech press media banner
 screencast keyboard shortcut popup
 
-```
-*  *  *  *  *
-
-
-
-
-```
 http://yongfook.com/1-year-as-a-digital-nomad-how-to-build-a-business-by-the-beach.html
 http://yongfook.com/growth-hacking-101.html
 http://yongfook.com/10-reasons-why-i-self-funded-my-startup-and-so-should-you.html
@@ -8571,11 +9238,7 @@ Code: The Hidden Language of Computer Hardware and Software - Charles Petzold
 Modern Compiler Design
 Lisp in Small Pieces
 Essentials of Programming Languages
-Compilers: Principles, Techniques, and Tools
-Let's Build a Compiler - Jack Crenshaw
 
-
-*  *  *  *  *
 
 Ralali.com | Belanja Online Alat Teknik Industri, Alat Ukur dan Instrumentasi
 HUB.id | Program dari Kementrian Komunikasi dan Informasi Republik Indonesia yang bertujuan untuk membangun dan memajukan kewirausahaan khusunya usaha berbasis kreatif dan teknologi di Indonesia
@@ -8623,7 +9286,6 @@ Fakdacapres | Fakta & Data Calon Presiden
 KreatifCD | Software Toko | Akuntansi | Bengkel | Apotik|Perpustakaan |Akademik Sekolah|CD belajar Fisika|matematika|kimia|ekonomi | sosiologi | PKN | bahasa indonesia | CD SD | SMP | SMA
 
 Kreanovator | Platform inovasi sosial bagi pemerintah, korporasi, dan masyarakat sipil (para ahli dan pemuda) yang berkolaborasi menciptakan perubahan sosial positif
-
 
 Ohdio.fm | Dengerin musik
 Buku Saku Dokter | Referensi Praktis Kedokteran

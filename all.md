@@ -2169,8 +2169,8 @@ Open Education Resources (OER)
 Open Journal Systems (OJS) 
 
 Google Currents
-Leanpub
-Blurb
+Leanpub | Publish Early, Publish Often | Self-publish your in-progress book for great royalties
+Blurb | Beautiful photo books and book printing | Make your own book
 CreateSpace
 Softcover
 Uberflip
