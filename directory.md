@@ -9089,40 +9089,514 @@ Blogo | Desktop blogging app for Mac - Blogo
 
 alertify.js | Simple browser dialogs
 
+Viceversa | Help people make choices
+Cast | Give fans a voice
+
+WPCOM.js | Official JavaScript library for the WordPress.com REST API
+
+Ionic Material | Material Design for Ionic Framework / AngularJS
+
+A lightweight jQuery plugin for complex two-way data binding in real time
+
+pokéapi | The Pokemon RESTful API
+
+500px | The Premier Photography Community
+
+Caliber | Build higher-quality relationships & find people who will unlock new career opportunities
+
+Qwertee | Limited Edition Cheap Daily T Shirts | Gone in 24 Hours | T-shirt Only £8/€10/$12 | Cool Graphic Funny Tee Shirts
+
+StatusCake | Website Uptime Monitoring & Alerts – Free Unlimited Downtime Monitoring
+Uptrends | Website Monitoring and Server Monitoring
+Uptime Robot
+Uptimia | Website uptime monitoring
+mist.io | govern your clouds | an open platform for managing heterogeneous infrastructures
+Ruxit | All-in-one Application Performance Management
+AppFirst | Complete IT Ecosystem Visibility
+Port Monitor | Website and server monitoring made simple!
+
+i3 | Improved tiling window manager (wm)
+Spectacle | Move and resize windows with ease
+Mizage - Divvy | Window management at its finest
+
+WebTorrent | Streaming browser torrent client | Streaming torrent client for node & the browser
+Instant.io | Streaming file transfer over WebTorrent
+
+hello.js | JavaScript API for OAuth2 authentication and RESTful services | A Javascript RESTFUL API library for connecting with OAuth2 services, such as Google+ API, Facebook Graph and Windows Live Connect
+
+Alt Flux | Managing your state | A library for managing data within JavaScript applications
+AppHub | Update React Native apps, instantly
+
+SurviveJS | Webpack and React | From apprentice to master
+
+Kiba 牙 | Lightweight ETL for Ruby
+
+Amazon Robotics | We Reimagine Now
+
+LivePlan | Business Plan Software | The world’s leading business plan software, built for entrepreneurs like you | Pitch, plan, and track your business. Anywhere.
+
+Engine | The voice of startups in government
+
+
+Node Foreman | Manager for Procfile-based applications
+SwitchyOmega | Manage and switch between multiple proxies quickly & easily
+
+Code in the Dark | You thought you knew front-end
+
+ProBoards | Free Forum & Free Message Board Hosting
+
+Desk Hunt | Inspirational workspaces
+
+Leanskill | Learn new creative skills from the experts
+
+Growlot | Marketing and Business Growth
+
+FontReach | Scans the top million sites to show font usage across the web
+A-Z Quotes | Quotes for All Occasions
+
+Stackify APM+ | Monitoring. Error. Logs. One tool.
+
+Bunny | A dead easy to use RabbitMQ Ruby client
+
+Rabbit | A presentation tool for Rubyist
+
+Sitespeed.io | Analyze your website speed and performance
+
+Open Source Bridge | The conference for open source citizens
+Open Container Initiative | A lightweight, open governance structure, to be formed under the auspices of the Linux Foundation, for the express purpose of creating open industry standards around container formats and runtime
+OpenConf | Peer-Review, Conference and Abstract Management Software System
+
+Gun.io | Search freelance software developers | We help hackers get paid | Meet Verified Freelance Developers
+
+Zopfli Compression Algorithm | A compression library programmed in C to perform very good, but slow, deflate or zlib compression
+
+Exploding Kittens | A card game for people who are into kittens and explosions and laser beams and sometimes goats
+
+Jasper | The ON Switch for The Internet of Things™
+
+HUMAI | Human Resurrection Through Artificial Intelligence
+Eternime | Preserve your most important thoughts, stories and memories for eternity
+
+YO! Company | Simon Woodroffe's Innovation Hub
+
+Autora | Writing just got collective.
+
+ResponsifyJS | A jquery plugin that makes images truly responsive, without sacrificing anyone's face
+underline.js | A javascript library that sets out to do one simple job: draw and animate the most perfect and playful text underline
+Profession.is | crafting résumé, crafting life
+
+Fanbase | Increase your audience on Twitter
+
+6Q | Employee Engagement and Survey App | Meaningful employee surveys in minutes | Improve employee engagement and increase company culture in just two minutes per week
+
+Boonle | Find Freelance Work & Find Freelancers for Projects
+Theranos
+Zenefits | Online HR Software | Payroll | Benefits - All-In-One
+Pure Storage | Storage Software, Enterprise Storage Solutions
+Powa Technologies | Commercial Freedom
+
+ironSource | App Discovery Platform | Connecting People & Apps
+Tanium | Endpoint Security and Systems Management
+
+ZocDoc | Find a Doctor | Doctor Reviews & Ratings | Book Online Instantly
+
+Google Codelabs | https://www.code-labs.io
+
+Petbo | Cat Condo | The Perfect House For Your Cat
+
+ImageMagick | Convert, Edit, Or Compose Bitmap Images
+
+Cucumbertown | Not just an ingredient,  your recipes hold a secret to success
+
+Takana | Live edit SCSS & CSS
+
+Library Genesis | Scientific community targeting collection of books on natural science disciplines and engineering
+
+TalentSmart | Emotional Intelligence (EQ) | The Premier Provider of Tests, Training, Certification, and Coaching
+  Emotional Intelligence 2.0 | #1 Selling Emotional Intelligence Book
+
+NaCl | Networking and Cryptography library | http://nacl.cr.yp.to
+
+Teamwork.com | A Better Way To Run Your Business | Online Project Management & Task Management Software
+
+Automating Your Workflow | Learn how to create an automated workflow using Gulp
+
+Figma | The collaborative interface design tool | Design, meet the internet
+
+Greenhouse | Recruiting Software | Applicant Tracking System | Make recruiting your competitive advantage
+
+Zarooq Motors
+
+Intern | Software testing for humans
+
+Apache Ripple™ | Web based mobile environment simulator designed to enable rapid development of mobile web applications for various web application frameworks
+
+Tonic | A better REPL for Node.js
+
+PechaKucha 20x20 | The art of concise presentations
+
+FbStart | A new program from Facebook designed to help early stage mobile startups build and grow their apps
+
+Practical Artificial Intelligence | Artificial Intelligence Demystified | Narrative Science
+
+MX3D Bridge
+
+Quipper | Distributors of Wisdom
+
+DoneJS | Your App. Done. | An open source JavaScript framework that makes it easy to build high performance, real-time web and mobile applications
+StealJS | Futuristic JavaScript dependency loader and builder
+Kong | Open-Source API Management and Microservice Management | Secure, Manage & Extend your APIs and Microservices | The open-source management layer for APIs, delivering high performance and reliability | Open-source, Microservice & API Management Layer built on top of Nginx
+
+Plivo | SMS API, Voice API, & Global Carrier Provider | Global SMS & Voice calls for businesses of all sizes | Global SMS & Voice calls for businesses of all sizes
+
+TheTopTens | Top Ten Lists for everything under (& including) the sun
+
+AdaAcara.com | Upload Acara Anda di Sini! Cara Mudah Membuat Acara Anda Terkenal! Tunggu Apalagi?
+SIRCLO | Buat Toko Online Dengan Mudah
+
+Coding VC |  Startups and startup investing from the perspective of a software engineer turned VC | A blog by Leo Polovets
+SalesConf | A one-day event on building billion dollar sales systems for software startups
+
+JerryScript | JavaScript engine for Internet of Things
+IoT.js | Platform and Framework for Internet of Things with JavaScript
+
+URB-E Foldable Electric Scooters
+
+Scrapinghub | Web Crawling Platform & Services | Turn web content into useful data | Cloud-based web crawling platform, off-the-shelf datasets, and turn-key web scraping services
+
+Authy | Two-Factor Authentication
+
+SIKUR GranitePhone | Private Communication Device
+
+Scratch | Imagine, Program, Share | Create stories, games, and animations | Share with others around the world
+
+Verily | Focused on using technology to better understand health, as well as prevent, detect, and manage disease | Our mission is to bring together technology and life sciences to uncover new truths about health and disease
+
+For Entrepreneurs | Blog of David Skok, Matrix Partners
+
+Apertium | A free/open-source machine translation platform
+MetaBrainz Foundation | A non-profit that believes in free, open access to data
+  MusicBrainz | The Open Music Encyclopedia
+FOSSASIA | Asia's Open Technology Organization for Open Hardware, Free Software, Open Design, Open Data
+
+mophie Battery Phone Cases & More
+
+Buffer | A Smarter Way to Share on Social Media
+Oktopost | Social Media Management for B2B Marketing
+
+Plutio | One app for all your apps | Everything you need to manage your business, collaborate with your teams and work closer with your clients, all from one place
+
+Remembered.io | Remember everything worth remembering
+
+Howdy.ai | Powerful workplace bots for your Slack team | Your new digital coworker for Slack
+Operator | Your next shopping experience starts with a text
+
+Mattermark | Discover, Research & Prospect Companies | Big Data Meets Deal Making | Quantifying Private Company Growth for Startup Investors | Data-Driven Deal Making | Prospect the world’s fastest-growing companies
+
+ThinkFun
+Youth Digital | Kids Online Programming, Coding & Computer Courses
+
+convertcsv.com | Convert CSV To HTML, XML, JSON, SQL, Flat File, KML, etc
+
+Versal | Online learning for everyone | In the classroom or the office, creating powerful, interactive online learning experiences has never been easier
+Versal Foundation | One idea can inspire a million more
+
+CoffeeDoc.info | Codo Documentation Server | CoffeeScript API documentation generator
+
+openCypher | Open source project to bring a new public implementation of the industry’s most widely adopted graph query language: Cypher
+
+Popoto.js | JavaScript library built with D3.js providing a graph based search interface generated in HTML and SVG usable on any modern browser
+
+Linkurious | Understand the connections in your data | Helps search and visualize your graph data through a simple web-based interface
+
+Cyber-Duck | Award Winning Digital Agency
+
+MyPersonality.info | Personality Tests and Type Profiles
+
+Nova | Science for curious minds
+
+ReactOS Project
+  ReactOS Community
+
+Google OnHub Makers | Make your home internet look like your home
+
+Collaboration Superpowers | Stories of remote teams doing great things
+
+MBTIonline.com | The Myers-Briggs Personality Test
+41Q Personality Test | 41 Questions. 1 Personality. 100% Free.
+
+Sonar | SMS and Facebook Messenger for Business
+
+PyGaze | Open source eye-tracking software and more | An open-source, cross-platform toolbox for minimal-effort programming of eye tracking experiments
+
+Free Music Instrument Tuner (FMIT) | Graphical utility for tuning your musical instruments, with error and volume history and advanced features
+LenMus | Open software for music theory
+LilyPond | Music notation for everyone
+
+Ultra Sabers | Custom Real Life FX Lightsabers | Real Life Lightsabers
+Vader's Vault
+
+Dwolla | Send money online | The ideal way to move money
+
+Prometheus | An open-source service monitoring system and time series database
+Nutanix | Invisible Infrastructure for Enterprise Computing
+
+SaneBox | Upgrade Your Inbox Today | Clean up your inbox in minutes | SaneBox learns what email is important to you and filters out what isn't
+
+Program Everyday
+
+ally.js | JavaScript library to help modern web applications with accessibility concerns by making accessibility simpler
+
+SystemJS | Universal dynamic module loader
+  system-npm | SystemJS/StealJS plugin for using NPM
+
+BitHub | Increase your conversations, shared social content, and followers with the most affordable social hub on the market
+
+IBM Swift Sandbox
+
+funf | Open Sensing Framework
+Behavio
+
+OnPage.org | For better Websites | The Leading Technical SEO Software
+
+Gifsicle | Command-Line Animated GIFs
+
+Study in Germany | Land of Ideas
+
+Tulungin | Bringing Services to your Doorstep
+
+Python Wheels | The new standard of python distribution and are intended to replace eggs
+
+Geoloqi | A powerful platform for mobile location, messaging, and analytics
+
+Promisees | Promise visualization playground for the adventurous
+
+itch.io | Download the latest indie games
+
+OpenAI | A non-profit artificial intelligence group
+YC Research | A non-profit research lab
+
+Bumble | Social Pollination
+Yogrt | Location-based social app in which you will never miss the hottest things happening around you
+
+Alamofire | Elegant HTTP Networking in Swift
+SwiftyJSON | The better way to deal with JSON data in Swift
+Hearst-DD ObjectMapper | Simple JSON Object mapping written in Swift
+Quick | The Swift (and Objective-C) testing framework
+XMARTLABS Eureka | Elegant iOS form builder in Swift 2
+XMARTLABS XLForm | XLForm is the most flexible and powerful iOS library to create dynamic table-view forms | Fully compatible with Swift & Obj-C
+
+Retrofit | Type-safe HTTP client for Android and Java
+Raizlabs DBFlow | A blazing fast, powerful, and very simple ORM android database library that writes database code for you
+Bump Tech Glide | An image loading and caching library for Android focused on smooth scrolling
+Butter Knife | Field and method binding for Android views
+Dagger | A fast dependency injector for Android and Java
+
+LuaRocks | The Lua package manager
+GoboLinux | The alternative Linux distribution
+dit editor | ncurses-based text editor for Unix systems
+
+StackExchange BlackBox | Safely store secrets in Git/Mercurial/Subversion
+
+TangerLine | Numbers Search System
+
+Microm | Beautiful library to convert browser microphone to MP3 in Javascript
+
+Docebo | Best SaaS Cloud LMS for Enterprise with Mobile APP and Tablet Ready
+
+CppCast | The first podcast by C++ developers for C++ developers
+
+X Open Hub | Enhance your forex & CFD business with the X Open Hub ecosystem | Use our native elements, 3rd party platforms or create bespoke proprietary products
+
+Realm | Mobile database | A replacement for SQLite & Core Data
+
+SwiftLint | A tool to enforce Swift style and conventions, loosely based on GitHub's Swift Style Guide
+SwiftCov | A tool to generate test code coverage information for Swift
+jazzy | Soulful docs for Swift & Objective-C | Command-line utility that generates documentation for Swift or Objective-C
+
+Swifty | Learn how to code in Swift!
+Javvy | Learn how to code in Java!
+
+Fleye | Your personal Flying Robot
+The Faktory | High-Tech Start-up accelerator and seed investor
+
+Jepret | Cloud-based photo collecting and printing solution
+
+Vicetone | Ruben & Victor
+Beatport | DJ & Dance Music, Tracks & Mixes
+
+EduSync | TeacherCal for Google Apps
+
+service | On demand customer service
+Ziptastic! | A simple yet powerful Postal Code API Service
+
+Ralali.com | Belanja Online Alat Teknik Industri, Alat Ukur dan Instrumentasi
+HUB.id | Program dari Kementrian Komunikasi dan Informasi Republik Indonesia yang bertujuan untuk membangun dan memajukan kewirausahaan khusunya usaha berbasis kreatif dan teknologi di Indonesia
+Zocko | Belanja online, harga terbaik dan marketing sistem afiliasi sosial
+Comma Coworking Space | Collaboration Matters!
+
+Crowdonomic
+Crowdtivate | launch pad for your business dreams
+
+Sribu | Jasa Logo Desain, Web Desain dan Desain Grafis lainnya secara Online & Harga Terbaik
+Sribulancer | Cari Freelancer & Pekerjaan Freelance Online
+
+Pricebook | Bandingkan Harga Gadget Termurah di Indonesia
+
+Rintis Kreasi | Komunitas Kreasi StartUp dan Produk Digital
+Maen.Co | Cari, Join, Maen
+
+LiveOlive | Menjawab Seputar Pengelolaan Keuangan Pribadi
+Jurnal | Software Akunting Online | Kemudahan Berbisnis
+
+Magangan
+Qerja | Komunitas untuk berbagi informasi mengenai tempat kerja dan gaji di Indonesia
+
+DapurMasak | Tempat No. 1 untuk menyimpan resep masakan kamu | Share your cooking experience
+Bornevia | Customer service software for your business
+Kurio | Smart News Reader App
+Cubeacon | IBeacon Will Makes Every Customer a VIP
+Wooz.in | Connecting The Online And Offline Worlds
+Kii | Cloud Mobile Application Development Platform | Funding for Apps
+
+Bukalapak | Situs Jual Beli Online Mudah & Terpercaya
+Traveloka | Tiket Pesawat Murah | Cari Tiket Pesawat Promo
+HaratiShare | Share What You Like, Get What You Want
+Eksis | Portfolio Online dan Kolaborasi
+e-Tryout | Bank Soal SD SMP SMA SBMPTN CPNS Psikotest IQ Test dll
+Kakatu | Android Launcher untuk Anak
+Naik Travel | Find your trip quickly and easily
+X-Igent | Pre-Secure Yourself
+
+Collective Fund | The collaborative equity company
+lagingapa.in
+
+PemimpinKita
+Fakdacapres | Fakta & Data Calon Presiden
+KreatifCD | Software Toko | Akuntansi | Bengkel | Apotik|Perpustakaan |Akademik Sekolah|CD belajar Fisika|matematika|kimia|ekonomi | sosiologi | PKN | bahasa indonesia | CD SD | SMP | SMA
+
+Kreanovator | Platform inovasi sosial bagi pemerintah, korporasi, dan masyarakat sipil (para ahli dan pemuda) yang berkolaborasi menciptakan perubahan sosial positif
+
+Ohdio.fm | Dengerin musik
+Buku Saku Dokter | Referensi Praktis Kedokteran
+
+Google Lightsaber Escape
+
+Emu4iOS | iOS Emulators, No jailbreak or computer. Get GBA4iOS, gpSPhone, iSSB, and more without jailbreak!
+Shou.TV | Amazing community for Android and iOS gamers to broadcast, watch, chat and discover new friends and awesome games anytime, anywhere
+
+DotCi | Jenkins GitHub integration
+
+Primed to Perform: How to Build the Highest Performing Cultures Through the Science of Total Motivation by Vega Factor
+Total Motivation Survey — Vega Factor
+
+A-Frame | Building Blocks for the VR Web
+
+Cold War | Simulation Platform
+
+PaintCode | Turn your drawings into Objective-C or Swift drawing code
+
+CB Inisghts | Venture Capital Database
+
+spmjs | Brand new static package manager for browser
+
+TheLadders.com | Find Jobs Fast | Improve Your Career
+
+Screenshotter | Organize and Manage Screenshots on the iPhone
+cite | Beautiful Textshots Made Easy
+Linky | Easily post webpage links, images and text extracts to Twitter, Facebook and App.net
+
+Java Community Space | Java Oracle Community | http://java.net | https://community.oracle.com/community/java
+GlassFish Server | World's first Java EE 7 Application Server
+
+Calendly | Simple, beautiful scheduling | Scheduling appointments and meetings is super easy
+Fieldbook | Create a database, as easily as a spreadsheet
+Quartzy | The free and easy way to manage your lab. Manage inventory, track order requests, administer facilities, and share documents.
+
+Famous.ID | Network of Content Creators
+
+Apollo | Java libraries for writing composable microservices | A library for writing services that focuses on composability and simplicity, with high performance using modern Java idioms and features
+
+N|Solid from NodeSource | The Enterprise Node Company™ Providing Enterprise Node.js Training, Support, Software & Consulting, Worldwide
+
+TLDR pages | Simplified and community-driven man pages
+  tldr.js | a tldr-pages web client
+
+Synthesia | Piano for Everyone | A fun way to learn how to play the piano
+
+Lime Text Editor | Powerful and elegant text editor primarily developed in Go that aims to be a Free and open-source software successor to Sublime Text
+
+Skia Graphics Library | Open source 2D graphics library which provides common APIs that work across a variety of hardware and software platforms
+
+The Nutanix Bible by Steven Poitras
+
+Oniguruma | Regular expressions library
+
+An Introduction to libuv by Nikhil Marathe | http://nikhilm.github.io/uvbook
+
+Codeup | Learn to Code at Web Developer Bootcamps
+
+thx libraries | Super-charged standard library for Haxe
+
+M3D | Micro 3D printer is the Next Generation 3D Printer
+The Micro by M3D | The First Affordable Consumer 3D Printer | 3D Printers | 3D Printing | 3D Printing Filament | Affordable 3D Printing
+
+Passion Planner | An all-in-one weekly appointment calendar, journal, goal setting guide, and to-do list log integrated in one handmade, durable faux-leather planner
+
+Airtable | Organize anything you can imagine | Airtable is a modern database created for everyone
+
+Frame by Depict | How Digital Art is meant to be enjoyed
+Electric Objects | A Computer Made for Art
+
+CruiseControl.rb | CC.rb | Simple Continuous Integration
+dblatex | DocBook to LaTeX Publishing
+Go CD | Continuous Delivery Software | Continuous Integration
+
+Bahmni™ Open Source EMR by ThoughtWorks | Easy to use, open source hospital system for healthcare providers in low-resource settings
+OpenMRS | Open source health IT for the planet
+Odoo | Open Source ERP and CRM
+OpenELIS Foundation | Global community of professionals in laboratory science, public health, health informatics, and software development
+
+AppAdvice | iPhone/iPad App News and Reviews
 
 
 
 
 
+<https://www.packtpub.com/packt/offers/free-learning>
+chat.md
+
+@Pak Made
+Selamat pagi Pak Made. Saya Haidar (M Haidar Hanif, Sarmag MMSI 2015, 54411850).
+Thesis saya dosen pembimbingnya Pak Made. Kira-kira kapan saya bisa bertemu untuk diskusi awal? Terima kasih.
+
+[refer to Bu Lulu]
 
 
 
-
-
-
-
-
+https://www.ifixit.com/Guide/Asus+X551CA+Hard+Drive+Replacement/24289
 ---
 
-https://github.com/juarezpaf/ionic-adventures
-https://help.github.com/articles/remove-sensitive-data
+"Whether you want to achieve many small things or few big things, it's your choice."
 
-http://livestre.am/5bXvu
-http://livestre.am/5dDaW
-http://livestre.am/5dYn9
+My own company, Agnium, Google, Bocoup, ThoughtWorks, Medium, AngelList, CrunchBase
 
-http://www.meetup.com/Meteor-Jakarta/events/drafts
+https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7
 
+https://www.npmjs.com/org/create
 https://notifuse.com
 https://scontent-yyz1-1.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/12227703_937188353037911_6034047367873105092_n.jpg
-http://blog.heroku.com/archives/2015/11/10/node-habits-2016
-
-https://medium.com/@rahmatawaludin
+http://insider.iwillteachyoutoberich.com/maximize-motivation/
+http://www.quicksprout.com/2015/12/09/7-ways-to-find-better-content-ideas
 
 https://learn.wheelhouse.io/events/early-access/screens/490
 https://rework.withgoogle.com/guides/hiring-use-structured-interviewing/steps/introduction/
 https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/
 http://www.inc.com/thomas-koulopoulos/one-thing-steve-jobs-did-at-apple-that-will-instantly-improve-your-productivity.html
+http://www.inc.com/val-wright/4-surefire-ways-to-save-your-best-people-from-quitting.html
+http://www.inc.com/jeff-haden/11-words-and-phrases-successful-people-refuse-to-use.html
+http://www.inc.com/michael-simmons/what-self-made-billionaire-steve-jobs-does-differently.html
+http://www.inc.com/business-collective/7-tips-for-pitching-your-company-in-under-a-minute.html
 
 https://www.namecheap.com/domains/registration/results.aspx?domain=mhaidarhanif
 
@@ -9130,8 +9604,6 @@ Recommended readings :star:
 https://rework.withgoogle.com
 https://rework.withgoogle.com/guides
 https://rework.withgoogle.com/blog/lets-make-work-better
-
-My own company, Agnium, Google, Bocoup, Medium, AngelList, CrunchBase
 
 http://www.niemanlab.org/2015/07/how-7-news-organizations-are-using-slack-to-work-better-and-differently/
 http://itsfoss.com/speed-up-slow-wifi-connection-ubuntu
@@ -9229,7 +9701,6 @@ https://secure.rosehosting.com/blog/install-and-setup-nodebb-with-redis-and-ngin
 https://www.gitbook.io/book/diegowifi/open-source-fundamentals
 https://www.gitbook.io/book/colabug/intro-to-android
 https://cathyatseneca.gitbooks.io/data-structures-and-algorithms
-```
 
 Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
 Continuous Integration: Improving Software Quality and Reducing Risk
@@ -9240,53 +9711,7 @@ Lisp in Small Pieces
 Essentials of Programming Languages
 
 
-Ralali.com | Belanja Online Alat Teknik Industri, Alat Ukur dan Instrumentasi
-HUB.id | Program dari Kementrian Komunikasi dan Informasi Republik Indonesia yang bertujuan untuk membangun dan memajukan kewirausahaan khusunya usaha berbasis kreatif dan teknologi di Indonesia
-Zocko | Belanja online, harga terbaik dan marketing sistem afiliasi sosial
-Comma Coworking Space | Collaboration Matters!
 
-Crowdonomic
-Crowdtivate | launch pad for your business dreams
-
-Sribu | Jasa Logo Desain, Web Desain dan Desain Grafis lainnya secara Online & Harga Terbaik
-Sribulancer | Cari Freelancer & Pekerjaan Freelance Online
-
-Pricebook | Bandingkan Harga Gadget Termurah di Indonesia
-
-Rintis Kreasi | Komunitas Kreasi StartUp dan Produk Digital
-Maen.Co | Cari, Join, Maen
-
-LiveOlive | Menjawab Seputar Pengelolaan Keuangan Pribadi
-Jurnal | Software Akunting Online | Kemudahan Berbisnis
-
-Magangan
-Qerja | Komunitas untuk berbagi informasi mengenai tempat kerja dan gaji di Indonesia
-
-DapurMasak | Tempat No. 1 untuk menyimpan resep masakan kamu | Share your cooking experience
-Bornevia | Customer service software for your business
-Kurio | Smart News Reader App
-Cubeacon | IBeacon Will Makes Every Customer a VIP
-Wooz.in | Connecting The Online And Offline Worlds
-Kii | Cloud Mobile Application Development Platform | Funding for Apps
-
-Bukalapak | Situs Jual Beli Online Mudah & Terpercaya
-Traveloka | Tiket Pesawat Murah | Cari Tiket Pesawat Promo
-HaratiShare | Share What You Like, Get What You Want
-Eksis | Portfolio Online dan Kolaborasi
-e-Tryout | Bank Soal SD SMP SMA SBMPTN CPNS Psikotest IQ Test dll
-Kakatu | Android Launcher untuk Anak
-Naik Travel | Find your trip quickly and easily
-X-Igent | Pre-Secure Yourself
-
-Collective Fund | The collaborative equity company
-lagingapa.in
-
-PemimpinKita
-Fakdacapres | Fakta & Data Calon Presiden
-KreatifCD | Software Toko | Akuntansi | Bengkel | Apotik|Perpustakaan |Akademik Sekolah|CD belajar Fisika|matematika|kimia|ekonomi | sosiologi | PKN | bahasa indonesia | CD SD | SMP | SMA
-
-Kreanovator | Platform inovasi sosial bagi pemerintah, korporasi, dan masyarakat sipil (para ahli dan pemuda) yang berkolaborasi menciptakan perubahan sosial positif
-
-Ohdio.fm | Dengerin musik
-Buku Saku Dokter | Referensi Praktis Kedokteran
+https://jlist.com/sea478
+https://jlist.com/kwe450
 
