@@ -9544,6 +9544,8 @@ The Micro by M3D | The First Affordable Consumer 3D Printer | 3D Printers | 3D P
 Passion Planner | An all-in-one weekly appointment calendar, journal, goal setting guide, and to-do list log integrated in one handmade, durable faux-leather planner
 
 Airtable | Organize anything you can imagine | Airtable is a modern database created for everyone
+Ragic | Data management that actually works | Design powerful Web databases with simple Excel-like interface | Web Database Builder, simple as Excel, powerful as a databaseLogmedo | Organize your life! | An easy to use and highly customizable database/spreadsheet app
+Parabola | Data Analysis Made Easy | Become a Data Superstar | Easily perform sophisticated analysis even if you're not a data scientist or engineer
 
 Frame by Depict | How Digital Art is meant to be enjoyed
 Electric Objects | A Computer Made for Art
@@ -9559,12 +9561,120 @@ OpenELIS Foundation | Global community of professionals in laboratory science, p
 
 AppAdvice | iPhone/iPad App News and Reviews
 
+iRobot | Your Partner for a Cleaner Home
+Neato Robotics | Smartest, Most Powerful, Best Robot Vacuum
+Ecovacs Robotics | Live Smart. Enjoy Life.
+VertiGo Robot Project | vertigoproject.ch
+
+Versal Business | Easily create online training | Boost productivity and save money with blended learning
+
+2015bestnine | Get your 2015 best nine on Instagram!
+
+HDSounDI | Original Soundtracks
+
+1001 Inventions | Discover a Golden Age, Inspire a Better Future
+
+Science Expo | Youth empowerment through connections
+Venture For Canada | Placing top graduates at innovative startups across Canada
+Wirkn | Find your next job! | Get Noticed by Employers | Stop waiting for managers to call you back, stand out with a video application
+
+Jay Abraham | Abraham.com | Business Consulting & Strategic Marketing Expert
+
+Hilenium | Marketing Templates, Workflows and Design Presentation for Marketers and Digital Agencies
+
+Innovative Design | innovativedesign.club
+
+I must say the best companies/products in 2015 (other than existing tech giants) was @Slack, @Airtable, @Gumroad, @IFTTT
+
+Genius | Annotate the World | The world’s biggest collection of song lyrics and crowdsourced musical knowledge
+
+Facebook Moments | This app lets you get photos from friends and give photos back, group them by date and who&#39;s in them, and organize them in one private place
+
+Feedio | Manage and grow your email and RSS subscribers
+
+Anki | Friendly, intelligent flashcards | Remembering things just became much easier
+
+MaGIC | Empowering the Spirit of Entrepreneurship
+Cyberjaya
+The Dredger | Sifting Wisdom | Startup Malaya | Knowledge sharing from early stage startup founders
+Foresight Strategy | Innovation Marketing Consulting
+
+Instagram Brand Resources | https://www.instagram-brand.com
+
+NASA | NASA.gov brings you the latest news, images and videos from America's space agency, pioneering the future in space exploration, scientific discovery and aeronautics research
+NASA Jet Propulsion Laboratory (JPL) | Space Mission and Science News, Videos and Images
+
+Hello Code | Learning, whenever and wherever
+Lrn | Learn to code at your convenience
+
+Tumult Hype | Create beautiful HTML5 web content. Interactive web content and animations made with Tumult Hype work on desktops, smartphones and iPads
+
+Bookmate | The easiest way to read and discover great books
+
+Seedstars World | Discover the best startups from emerging markets
+
+Tmuxinator | Create and manage tmux sessions easily
+tpm | Tmux Plugin Manager | Installs and loads Tmux plugins
+  tmux-resurrect | Tmux Resurrect | Persists tmux environment across system restarts
+  tmux-continuum| Continuous saving of tmux environment | Automatic restore when tmux is started | Automatic tmux start when computer is turned on
+
+reptyr | Reparent a running program to a new terminal
+
+Facebook PathPicker | Why Pipe when you can Pick? | Simple command line tool that solves the perpetual problem of selecting files out of bash output
+
+World Introvert Day | introvertday.org
+
+Google Tips | https://get.google.com/tips
+http://google.com | http://abc.xyz | http://hooli.xyz | http://piedpiper.com
+
+Milligram | A minimalist CSS framework
+
+libssh | The SSH Library | Mulitplatform C library implementing the SSHv2 and SSHv1 protocol on client and server side
+XQuartz | Open-source effort to develop a version of the X.Org X Window System that runs on OS X
+
+HashiCorp | Application delivery done right | Develop and deploy applications across large teams and global infrastructure
+  Terraform by HashiCorp | A tool for building, changing, and versioning infrastructure safely and efficiently
+  HashiCorp Atlas | HashiCorp workflow for the enterprise | Enable developers to rapidly deploy with an automated, policy-enforced workflow
+
+Corona Labs | Cross-Platform Mobile App Development for iOS, Android
+
+Unified Remote | Remote Control App for your Computer
+
+Flic | The Wireless Smart Button
+PhoneHome Project | Automate your life
+Telldus Technologies | Live Smarter | telldus.se
+
+Vozz Helmets
+
+Vine | Explore a world of beautiful, looping videos
+ 
+TweetClaims | Claim your Twitter username!
+Namevine | Instantly Find a Domain, Facebook & Twitter Account
+
+Vocabulary.com | Learn Words | English Dictionary
+
+Self-Determination Theory | sdt | selfdeterminationtheory.org | An Approach to human motivation & personality
+
+Genesant Technologies | Web and Software Development, Web Products, Mobile & More
+
+
+airtable invite git
+trello add member
+
+bi git, pernah tau tentang survey ini? Total Motivation Survey, berbasis Intrinsic and Extrinsic Motivation
+https://app.vegafactor.com/take_the_survey
+Kalau belum, cobain deh (cuma 6 indikator utama)
+
+
+
 
 
 
 
 <https://www.packtpub.com/packt/offers/free-learning>
+
 chat.md
+sweater di kosan
 
 @Pak Made
 Selamat pagi Pak Made. Saya Haidar (M Haidar Hanif, Sarmag MMSI 2015, 54411850).
@@ -9572,17 +9682,38 @@ Thesis saya dosen pembimbingnya Pak Made. Kira-kira kapan saya bisa bertemu untu
 
 [refer to Bu Lulu]
 
-
-
 https://www.ifixit.com/Guide/Asus+X551CA+Hard+Drive+Replacement/24289
 ---
 
 "Whether you want to achieve many small things or few big things, it's your choice."
 
-My own company, Agnium, Google, Bocoup, ThoughtWorks, Medium, AngelList, CrunchBase
+My own company
+Agnium, Vega Factor, Bocoup, ThoughtWorks
+Google, Airtable, Buffer, Medium
+AngelList, CrunchBase
 
 https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7
+https://rework.withgoogle.com
+https://rework.withgoogle.com/guides
+https://rework.withgoogle.com/blog/lets-make-work-better
 
+
+http://www.quicksprout.com/2015/08/28/6-advanced-google-analytics-tricks-that-all-site-owners-should-know
+https://www.groovehq.com/blog/growth-hacks-that-dont-require-a-developer
+
+https://www.glassdoor.com/partners/account/create.htm
+https://www.slideshare.net/professional-journey
+https://play.google.com/store/apps/details?id=jp.co.hit_point.nekoatsume
+
+Use RescueTime | https://www.rescuetime.com/signup/solo/lite
+Put DocSend
+Put Intercom
+Put Limk
+Put Elevio
+Use Room.co
+
+http://www.hashtagstartup.co
+https://remembered.io
 https://www.npmjs.com/org/create
 https://notifuse.com
 https://scontent-yyz1-1.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/12227703_937188353037911_6034047367873105092_n.jpg
@@ -9598,12 +9729,6 @@ http://www.inc.com/jeff-haden/11-words-and-phrases-successful-people-refuse-to-u
 http://www.inc.com/michael-simmons/what-self-made-billionaire-steve-jobs-does-differently.html
 http://www.inc.com/business-collective/7-tips-for-pitching-your-company-in-under-a-minute.html
 
-https://www.namecheap.com/domains/registration/results.aspx?domain=mhaidarhanif
-
-Recommended readings :star:
-https://rework.withgoogle.com
-https://rework.withgoogle.com/guides
-https://rework.withgoogle.com/blog/lets-make-work-better
 
 http://www.niemanlab.org/2015/07/how-7-news-organizations-are-using-slack-to-work-better-and-differently/
 http://itsfoss.com/speed-up-slow-wifi-connection-ubuntu
@@ -9647,8 +9772,6 @@ Gogs (Go Git Service)
 Django TDD
   mummy
   factoryboy
-open erp python
-coursera data science | udacity cs101
 pandas
 pubchempy
 socioelitics
@@ -9710,8 +9833,10 @@ Modern Compiler Design
 Lisp in Small Pieces
 Essentials of Programming Languages
 
-
-
-https://jlist.com/sea478
-https://jlist.com/kwe450
-
+http://tympanus.net/codrops/2015/01/27/freebie-boxify-one-page-website-template/
+http://tympanus.net/codrops/2015/02/27/freebie-flat-icon-pack-ai-svg-eps-psd-png/
+http://tympanus.net/codrops/2015/03/12/freebie-forkio-one-page-website-template/
+http://tympanus.net/codrops/2015/07/10/freebie-cardio-one-page-website-template/
+http://tympanus.net/codrops/2015/08/11/freebie-sedna-one-page-website-template/
+http://tympanus.net/codrops/2015/09/16/freebie-land-io-ui-kit-landing-page-design-sketch/
+http://tympanus.net/codrops/2015/10/17/freebie-land-io-ui-kit-landing-page-template-html/
