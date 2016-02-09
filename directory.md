@@ -9489,6 +9489,7 @@ DotCi | Jenkins GitHub integration
 
 Primed to Perform: How to Build the Highest Performing Cultures Through the Science of Total Motivation by Vega Factor
 Total Motivation Survey — Vega Factor
+  https://app.vegafactor.com/reports/23b95ba8-274f-4892-8980-4a17b9db4c32
 
 A-Frame | Building Blocks for the VR Web
 
@@ -9613,6 +9614,7 @@ Bookmate | The easiest way to read and discover great books
 
 Seedstars World | Discover the best startups from emerging markets
 
+tmuxp | tmux session manager in python, JSON, yaml, python API
 Tmuxinator | Create and manage tmux sessions easily
 tpm | Tmux Plugin Manager | Installs and loads Tmux plugins
   tmux-resurrect | Tmux Resurrect | Persists tmux environment across system restarts
@@ -9657,13 +9659,372 @@ Self-Determination Theory | sdt | selfdeterminationtheory.org | An Approach to h
 
 Genesant Technologies | Web and Software Development, Web Products, Mobile & More
 
+React Redux Starter Kit | davezuko/react-redux-starter-kit | Get started with React, Redux, and React-Router
+Redux DevTools | DevTools for Redux with hot reloading, action replay, and customizable UI
 
-airtable invite git
-trello add member
+LYNX | The Text Web-Browser
+ELinks | Full-Featured Text WWW Browser
+W3M | Text-based web browser as well as a pager
 
-bi git, pernah tau tentang survey ini? Total Motivation Survey, berbasis Intrinsic and Extrinsic Motivation
-https://app.vegafactor.com/take_the_survey
-Kalau belum, cobain deh (cuma 6 indikator utama)
+BTFS (bittorrent filesystem) | johang/btfs | A bittorrent filesystem based on FUSE and C++
+
+Trails | Modern MVC Web Framework for Node.js | Modern, community-driven web application framework for Node.js
+
+codeMagic | Powerful online code editor for web development
+
+Namechk | Username & Domain Search | Use Namechk to search for an available username or domain and secure your brand across the internet
+
+Bountysource Salt | Crowdfunding platform that helps developers earn a monthly salary from open-source software
+
+Neovim | vim, out of the box
+
+Blockchain.info | Bitcoin Block Explorer
+
+Linuxbrew | A fork of Homebrew for Linux
+Termux | Terminal emulator and Linux environment bringing powerful terminal access to Android
+Exherbo Linux | Source based Linux distribution with deterministic package management and decentralized workflow
+
+Flomio | Proximity ID Solutions
+
+Tall Tweets | Write Tweets Longer than 140 Characters | #twitter
+
+Material UI | materialui.co | Material Design Colors | Flat Colors | Material Design Icons
+
+Android Asset Studio | A set of web-based tools for generating graphics and other assets that would eventually be in an Android application res/ directory | http://romannurik.github.io/AndroidAssetStudio
+  Android Asset Studio - Icon Generator - Launcher icons | https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html
+
+Fragmented | An Android Developer Podcast | http://fragmentedpodcast.com
+Styling Android Blog | A technical guide to improving the UI and UX of Android apps | https://blog.stylingandroid.com
+
+CGSecurity | Data recovery | TestDisk & PhotoRec
+
+Skillshare | Learn New Creative Skills | Join over 1 million students learning across thousands of online classes
+
+Jasper | Control everything with your voice | Control anything with your voice
+
+ThingLink | Make Your Images Interactive
+
+React Hot Loader | Tweak React components in real time
+Redux | Predictable state container for JavaScript apps
+React DnD | Drag and Drop for React | A set of React higher-order components to help you build complex drag and drop interfaces while keeping your components decoupled
+ReduxKit | Swift implementation of the JavaScript Redux library
+
+Keymetrics I/O | Monitor and Augment Node.js | Build reliable and faster Node.js applications
+
+HoHo | The marketplace for technology startups
+
+Hubbos | Explore trending apps, movies and books
+
+Smyte | Stop bad actors on marketplaces and social networks | Trust and safety system stops spam, abuse and fraud before it happens, and makes human reviewers more efficient
+
+Consul by HashiCorp | Service discovery and configuration made easy | Distributed, highly available, and datacenter-aware
+Otto by HashiCorp | Development and Deployment Made Easy
+Vault by HashiCorp | A tool for managing secrets
+Nomad by HashiCorp | Easily deploy applications at any scale | A Distributed, Highly Available, Datacenter-Aware Scheduler
+
+Enzyme | JavaScript Testing utilities for React
+
+Thrive Market | Organic, Healthy Food Delivery Online
+
+Objection Framework | A lightweight dependency injection framework for Objective-C | objection-framework.org
+Guice | Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google
+
+Weekdone | Weekly progress reports for managers and internal communication for teams
+Perdoo | The Ultimate OKR Tool
+BetterWorks | Goal setting software for the Enterprise | Powering Goals for the Enterprise | The easiest way to set and manage goals
+7Geese | OKRs and Continuous Performance Management
+StatusPath | Align. Engage. Succeed. | Modern enterprise goal management
+Kapta | Key Account Management Software for Customer Success
+
+Genderize.io | Determine the gender of a first name
+
+Nascent Objects | Modular Consumer Electronics
+
+PICR | For Moments That Really Matter | Find & Book Your Perfect Photographer
+
+MonoRover
+
+Jide Remix Mini | True Android PC
+  Remix OS
+
+Android++ | A native development and debugging solution for Visual Studio
+
+RepreZen | Build APIs that Click with Client Apps
+
+KFIT | Fitness for Everyone
+Wrapp | You Deserve More | Wrapp delivers personal offers and rewards based on where you shop, dine, and the brands you like and follow | Discover new, relevant brands, receive rewards based on your purchases and collect stamps with personalized punch cards
+
+Mazira | Your data conversion, search, and visualization experts
+
+Benchmark.js | A benchmarking library that supports high-resolution timers & returns statistically significant results
+Load Impact | On Demand Load Testing for Developers & Testers
+
+Codacy | Automated Code Review
+NativeScript | Cross-Platform Native Development with JavaScript
+Open Source Initiative | https://opensource.org
+
+PeopleSpark | Employee Engagement Software, Retention, Survey & Ideas
+#DoItAll | Hack Your Productivity And Get Anything You Want
+
+SKULLY AR-1 | The First Augmented Reality Helmet
+
+OATD | Open Access Theses and Dissertations
+OpenThesis | Upload and Search Theses and Dissertations
+
+FORLAP SRV5 PDDIKTI | Pangkalan Data Pendidikan Tinggi | http://forlap.dikti.go.id
+
+Stephen Guise | Deep Existence | Creative Strategies For Lasting Change
+Mini Habits® | Smaller Habits, Bigger Results
+
+The Apache HTTP Server Project
+
+Bento | Learn to code the way professional programmers do | Teach yourself to code | Everything you need to be a self-taught expert developer
+
+Free Software Directory | http://directory.fsf.org
+
+OpenSSL | Cryptography and SSL/TLS Toolkit
+
+Learn REST | A RESTful Tutorial | REST API Tutorial
+
+Datadog | Cloud Monitoring as a Service
+AdRem NetCrunch | Network Monitoring System
+DareBoost | Website Performance and Quality Test Tool | Analyze and Optimize your website | Web Performance, SEO, Security, Quality and more
+
+WowShack | Strives to supply you with the most interesting and shareable Indonesian-based social content on the web
+
+Mailjet | Bulk Email Marketing Services | Email delivery service for marketing & transactional email
+
+Dropsource | Accelerating App Development 
+DeployBot | Deploy your code anywhere
+
+Adonis | Nodejs MVC Framework
+
+Wakanda Digital App Factory | The JavaScript App Factory | Industrialize your application development process, while keeping total flexibility and openness
+
+Open API Initiative | https://openapis.org
+
+Clearbit | Provides Business Intelligence APIs
+
+The Mullet Stack | Facebook in the front. Walmart in the back
+For the Badge | Badges for badges sake
+
+Galileo | Build and Deliver Better APIs | The Analytics Platform for Monitoring, Visualizing and Inspecting API & Microservice Traffic
+Gelato.io | Super-Sweet Developer Portals
+Mashape Marketplace | Free API Management Platform & Marketplace | Rocket fuel for APIs | Largest API Marketplace And Powerful Tools For Private And Public APIs
+
+ZenRooms | Book budget accommodation in Indonesia
+
+Trace by RisingStack:| Visualised Microservice Monitoring | Monitoring Tool for Microservices | See what your microservices really look like | Transform your data into a supercharged map of your architecture
+
+ScaleScale.com | Great Architectures, Stacks & DevOps at Webscale
+
+WPS Office | KINGSOFT Office Software | https://www.wps.com
+
+SVGNest | A browser-based vector nesting tool | Open source vector nesting for CNC machines, lasers and plasma cutters
+
+Halo Robotics | Teknologi 3DR SOLO Drone
+
+3DR | Drone & UAV Technology
+
+dwyl.io | do what you love | Community of people dedicated to helping people solve real problems with technology
+
+Uniregistry | Domain Names | New gTLDs | We make domain names easy
+Uniregistry Registry | Fresh domains and extensions | The Internet is changing and we’re part of the new wave | Inspiring top-level domains from Uniregistryi
+
+howhot.io | Let Artificial Intelligence guess your attractiveness and age | ETH Zürich & BLINQ dating app #howhot
+BLINQ | Join the community and connect with authentic people nearby
+
+Instafeed.js | a simple Instagram javascript plugin
+
+Bolt | Venture Capital Designed for Hardware
+
+Resin.io | Modern development and deployment workflow for the Internet of Things | Update Your Linux Device Fleet Over The Air
+
+ReadCube for Researchers | Bring your papers to life | Read, manage & discover new literature like never before
+
+CodeHub | iOS Client for GitHub
+
+Swiss in CSS
+
+QPDF | Command-line program that does structural, content-preserving transformations on PDF files
+
+CODE2040 | This is the future of tech
+
+Grouphub  Social Community Management Platform | Build Your Loyal Community Today | To grow your Business / Organization | Connect • Collaborate • Organize
+
+Charlie | A free HR platform for startups
+
+FreeNAS Project | Open Source Network Attached Storage
+
+DiVA Portal | diva-portal.org
+To ePub | eBook Converter | Convert PDF and Other Formats to eBooks | toepub.com
+
+Automation for everyone | Deploy apps. Manage systems. Crush complexity. | Ansible helps you build a strong foundation for DevOps
+
+Polyfill.js | CSS Polyfilling Made Easy
+Polyfills as a Service | polyfills.io
+
+Enpass | Best & Free Password Manager
+Icinga | Open Source Monitoring
+
+CodeceptJS | Modern Era Acceptance Testing for NodeJS
+
+Screeps | The worlds first MMO open world strategy game for programmers
+
+Startup Fucking Advice #SMA
+
+Xamarin | Mobile App Development & App Creation Software
+
+Catastic
+
+Dockbit | Deploy together. Fearlessly. | Dockbit turns your software deployments into repeatable, manageable workflows. Bring your team together and ship better.
+
+Gild | Smart Recruiting Software | Talent Acquisition
+
+Starry.com | Starry is making Internet better for everyone, from easy-to-use Wi-Fi products to radical Internet service
+
+Periscope Data | Type SQL, Get Charts | Periscope plugs directly into your databases and lets you run, save, and share analyses over billions of data rows in seconds
+
+Pro Git Book | https://progit.org
+
+HTTP Status Cats API | https://http.cat
+
+Sekolah Koding | Belajar web design, web development dan programming
+
+DigitalOcean API | Power your apps with our simple API
+Godep | dependency tool for go
+Buck | A fast build tool | A high-performance build tool
+Pants Build System | Build system for software projects in a variety of languages
+PEX | A library and tool for generating .pex (Python EXecutable) files
+
+Minecraft: Education Edition
+
+Career Igniter | Free Resume Builder | Create A Resume The Easy Way
+
+MonoDevelop | Cross platform IDE for C#, F# and more
+OmniSharp | .NET and IntelliSense on any platform with your editor of choice
+
+SketchDesk | Great Design. Effortlessly Delivered.
+
+OKRs.com | Objectives and Key Results OKRs
+
+Gitbox | The version control app on a Mac
+
+LatLong.net | Latitude and Longitude Finder on Map Get Coordinates
+
+Tonic | A better REPL for Node.js | Tonic is Node Prototyping | Tonic notebooks are interactive playgrounds connected to a complete node environment right in your browser
+
+online-go.com | The best place to play go online!
+playgo.to
+  The Interactive Way To Go | playgo.to/iwtg/en
+
+Hiren & Pankaj | hiren.info
+
+Hortonworks | We Do Hadoop | Open Enterprise Hadoop
+
+Work@ | workat.co.id | Coworking Space in Bandung
+
+Jumpcut | Minimalist Clipboard Buffering for OS X
+
+Momentum | Personal Dashboard New Tab Replacement Chrome Extension
+
+MIT PGP Key Server | https://pgp.mit.edu
+
+Two Way Mirror | Order Custom Size Glass & Acrylic
+
+kramdown | fast, pure-Ruby Markdown-superset converter
+
+Apigee API Studio | a playground for API developers | apistudio.io
+API Evangelist | apievangelist.com
+APIs.json | apisjson.org
+API Commons | Provide a simple and transparent mechanism for the copyright free sharing and collaborative design of API specifications, interfaces and data models | apicommons.org
+APIStrat
+APIs.io | The API search engine
+APItools | API Zen for App Developers & DevOps | Track, transform and analyze the traffic between your app and the APIs you use | Stay in complete control
+API Academy | API Design and Strategy | apiacademy.co
+
+EdgeRank | Facebook algorithm that decides which stories appear in each users newsfeed
+
+nownownow.com | sites with a /now page
+
+iOS Developers | ios-developers.io | A Slack community for iOS developers
+
+TrumpScript | Make Python great again
+
+HikarinoAkari | Download Japanese Music
+
+TalentSmart | Emotional Intelligence (EQ) | The Premier Provider | Tests, Training, Certification, and Coaching
+
+Pastebin.com | #1 paste tool since 2002 | Store text online for a set period of time
+
+Mapme | Build Smart and Beautiful Maps | Build smart and beautiful maps for free without any coding. Import data to your map, embed the map on your site and promote your map
+
+Fisherman | A fast, modern plugin manager for Fish | A blazing fast, modern plugin manager for Fish
+Fishtape | TAP producer and test harness for Fish
+Getopts | Fisherman CLI options parsers
+
+Fly | New Generation Build System
+Shark | Fantastic Sparkline Generator
+
+Toggl | Free Time Tracking Software & App
+Teamweek | Team Planning Made Easy | Schedule Tasks And Share Calendar
+
+All About Agile | Agile Development Made Easy!
+
+Magic | Text this phone number to get whatever you want on demand with no hassle | Send text message to this 'magic' phone number, and theyll order you food, book plane tickets, deliver flowers, and pretty much do anything else that you want
+
+Software Freedom Conservancy | https://sfconservancy.org
+
+MindTrackers | Try this interesting personality test
+
+LennyFaces.net ( ͡° ͜ʖ ͡°) | Offline enabled lists of Le Lenny faces text emoticons
+
+React ID | ReactJS Community Indonesia
+
+Wealthfront | Investment Management, Online Financial Advisor | The most tax-efficient, low-cost, hassle-free way to invest
+
+Organisation of Islamic Cooperation (OIC) | http://oic-oci.org
+
+Security Enhanced Linux (SELinux) | http://selinuxproject.org
+
+Tactical Investor | The place where mass psychology and Technical analysis converge
+
+PONCHO | Poncho delivers customizable weather forecasts daily via email and text message, helping you plan everything from your commute to your outfit | http://www.poncho.is/r/pb7ut62q
+
+TUNE | Marketing Console | Your mission control for mobile
+HunchLab | Next Generation Predictive Policing Software
+The Omega Group provides mapping and analysis solutions to public agencies
+
+Pro React | The “Pro Level” React book | Pro React book companion site
+
+Digital Element | Geolocation and IP Intelligence Leader
+
+Osclass | The free classifieds script
+
+Fig Hunter - The Four Temperaments | http://temperaments.fighunter.com
+
+The Booked Book | The Appointment Setting System for Anyone Looking For More Leads, Appointments, and New Clients
+
+Atavi | Bookmark Manager
+Bookmax | Online Bookmark Manager
+
+Safer Internet Day
+
+Aerospike | NoSQL Database, In-Memory or Flash Optimized and Web Scale | High performance NoSQL database delivering speed at scale
+
+Nihongo Center | Japanese School
+  My Nihongo Center
+notify.moe | Anime Notifier
+
+The Drone Racing League | The Premier Drone Racing League
+
+Chalk Schools | Process K12 forms, signatures & workflows online
+
+Major League Hacking | mlh.io
+
+Errbot | Chatbot, a daemon that connects to your favorite chat service and bring your tools into the conversation
+
+IMPOSSIBLE | Push Your Limits. Do Something Impossible.
 
 
 
@@ -9671,26 +10032,14 @@ Kalau belum, cobain deh (cuma 6 indikator utama)
 
 
 
-<https://www.packtpub.com/packt/offers/free-learning>
 
-chat.md
-sweater di kosan
 
-@Pak Made
-Selamat pagi Pak Made. Saya Haidar (M Haidar Hanif, Sarmag MMSI 2015, 54411850).
-Thesis saya dosen pembimbingnya Pak Made. Kira-kira kapan saya bisa bertemu untuk diskusi awal? Terima kasih.
+https://m.do.co/c/40030b050c21
 
-[refer to Bu Lulu]
-
+https://www.packtpub.com/packt/offers/free-learning
 https://www.ifixit.com/Guide/Asus+X551CA+Hard+Drive+Replacement/24289
 ---
 
-"Whether you want to achieve many small things or few big things, it's your choice."
-
-My own company
-Agnium, Vega Factor, Bocoup, ThoughtWorks
-Google, Airtable, Buffer, Medium
-AngelList, CrunchBase
 
 https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7
 https://rework.withgoogle.com
@@ -9840,3 +10189,4 @@ http://tympanus.net/codrops/2015/07/10/freebie-cardio-one-page-website-template/
 http://tympanus.net/codrops/2015/08/11/freebie-sedna-one-page-website-template/
 http://tympanus.net/codrops/2015/09/16/freebie-land-io-ui-kit-landing-page-design-sketch/
 http://tympanus.net/codrops/2015/10/17/freebie-land-io-ui-kit-landing-page-template-html/
+
