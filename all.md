@@ -34,7 +34,6 @@ Operating System
   + aptik
   + apt
     + `echo 'Dpkg::Progress-Fancy "1";' > /etc/apt/apt.conf.d/99progressbar`
-  + . 
 + Debian | Debian GNU/Linux
 + The FreeBSD Project | FreeBSD
 + Gentoo Foundation | Gentoo Linux

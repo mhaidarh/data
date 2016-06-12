@@ -11164,13 +11164,160 @@ cmus | C Music Player | cmus is a small, fast and powerful console music player 
 
 jOOQ | The easiest way to write SQL in Java
 
+Arch Linux ARM
+
+WebPlatform.org | Your Web, documented | The latest information on how to use the technology that runs the web — HTML, CSS, JavaScript and more
+World Wide Web Foundation | Founded by Tim Berners-Lee, inventor of the Web, the World Wide Web Foundation empowers people to bring about positive change
+SmartBear | Software Testing, Monitoring, Developer Tools
+Hive Learning Networks | We are a growing constellation of communities around the globe that are championing digital skills and web literacy through connected learning
+
+Great Place to Work® Institute United States
+
+KnowEm Username Search | Social Media, Domains and Trademarks
+
+Aerobatic | Static hosting for Bitbucket
+
+Camp Code Away | Learn to Code. Travel the World.
+
+Brave Software | Building a Better Web | Browse faster and safer with Brave
+
+The Work Revolution | http://workrevolution.org
+Revolution – workisnotajob. | http://workisnotajob.com/en/revolution
+
+git-cola | The highly caffeinated Git GUI
+Axosoft GitKraken | Git GUI Client for Windows Mac and Linux
+
+Inkscape
+GIMP
+SwatchBooker | Color swatches | http://www.selapa.net/swatchbooker
+
+iTerm2 | Mac OS Terminal Replacement
+
+Should We | A podcast with potential
+
+Breach | A new modular Browser | Entirely written in Javascript. Free. Hackable.
+Aurelia | JavaScript client framework for mobile, desktop and web leveraging simple conventions and empowering creativity
+Formspree | Functional HTML forms
+
+The Crystal Programming Language | http://crystal-lang.org
+Awesome Crystal | A collection of awesome Crystal libraries, tools, frameworks and software
+
+Git How To | Guided Git Tutorial
+
+Pluralsight | Unlimited Online Developer, IT and Creative Training
+
+Horizon.io | The realtime, open-source JavaScript backend | Build powerful web and mobile apps that scale
+
+Voux | Angular and JavaScript digital workshops and one-to-one training
+
+Convertio.co | File Converter | Advanced Tool to Convert Files to Any Format
+
+AWRStudyr Chrome extension | Powerful insights on SEO and web technologies
+
+Stylus CSS | Expressive, dynamic, robust CSS | Expressive, robust, feature-rich CSS preprocessor | http://stylus-lang.com
+
+Modernizr | The feature detection library for HTML5/CSS3
+
+Fun Retrospectives | Activities and ideas for making agile retrospectives more engaging
+
+AIDE | Android IDE | Complete integrated development environment for your Android device
+
+ReWork | The Marketplace for Meaningful Work
+
+Orion | A modern, open source software development environment that runs in the cloud
+
+Static Site Generators | https://staticsitegenerators.net
+Hexo | A fast, simple & powerful blog framework
+Phenomic | A static website generator for creating dynamic websites
+Middleman | Hand-crafted frontend development | Build static websites with an easy-to-use framework
+
+Beaker Notebook | Web-based, polyglot research platform
+
+Search Inside Yourself Leadership Institute | The unexpected path to success & happiness at work
+Wake Up Project | Celebrating Mindful Living & Leadership
+
+The Alliance: Managing Talent in the Networked Age | http://www.theallianceframework.com
+Learnpatch | Next generation thinking for learning and development
+CULTURE LABx | Redefining workplace culture.
+
+Plop | Micro-generator framework that makes it easy for an entire team to create files with a level of uniformity
+https://github.com/mattdesl/budo
+https://github.com/insin/nwb
+https://github.com/mattdesl/prot
+https://github.com/mzabriskie/rackt-cli
+https://github.com/petehunt/rwb
+
+ESDoc | A Documentation Generator For JavaScript(ES6)
+  ESDoc Hosting Service
+
+Cylon.js | JavaScript framework for robotics, physical computing, and the Internet of Things using Node.js
+Artoo | Ruby framework for robotics, physical computing, and the Internet of Things
+Gobot | Golang framework for robotics, physical computing, and the Internet of Things (IoT)
+
+Pingdom Website Speed Test | Enter a URL to test the load time of that page, analyze it and find bottlenecks
+
+Varvy | How to follow the Google webmaster guidelines
+
+MindNode | makes mind mapping easy
+Mindomo | Collaborative mind mapping, concept mapping and outlining
+MindMeister | Collaborative mind mapping | Mind Mapping Software | Brainstorm Online
+
+CloudScreener.com | Cloud Decison Engine | Performance & Pricing Benchmarks for Public & Private Cloud
+
+Peek.com | Book Amazing Activities, Tours, and more
+
+E.gg Timer | A simple countdown timer
+SatisMeter | Collect customer feedback using Net Promoter System | Collect customer feedback to reduce churn and accelerate growth
+
+DECO | React Native IDE
+DecoJS | Scalable frontend architecture
+
+Predix | GE Digital | Your Platform for the Industrial Internet
+
+Constructor.io | Autocomplete as a Service | Autocomplete that learns from your users
+fabric8 | An open source developer platform | open source microservices platform
+
+Erato Audio | Mobile Freedom, Reinvented | Erato Audio Apollo 7 is the world’s most compact, true wireless Bluetooth 4.1 headset. Weighs only 4 grams, waterproof, build in microphone
+
+Glide | Package Management For Go
+
+Sprint for Enterprises | Sprint resources by Go Weekly
+
+ironNode | The Node.js Debugger | Debug Node.js code with Chrome Developer Tools on Linux, Windows and OS X
+
+Iron.io | Microservices For The Enterprise
+
+Blossom | Ultra fast, for Modern Software Development Teams that love Continuous Delivery & Simplicity | Project tracking for distributed companies
+
+Treejack | Information Architecture Validation Software | Tree Testing Tool by Optimal Workshop
+Optimalsort
+
+Sketch Master | Training courses to make you a master of the most popular screen-based design tool
+
+Hackevents | All Hackathons in One Place | Leading search engine for hackathons
+
+Flarum | Forums Made Simple
+
+Myth | CSS the way it was imagined
+
+Dropbox Paper | Capture and build on ideas together | A clean, smart surface that lets you and your team work together the way you want
+
+Mockingbird | Website wireframes
+Frame Box | Lightweight online tool for creating mockups
+
+Hanselminutes Technology Podcast | Fresh Air for Developers
+
+Antergos | Your Linux. Always Fresh. Never Frozen.
+WebVim | Vim based distribution targeting JavaScript and Web development
+
+ES6 Fiddle
+SAM | State-Action-Model
+0Auth.io | OAuth that just works
 
 
 
 
 
-
-https://www.sequoiacap.com/article/more-productive-eng-teams
 
 zprezto
   update
@@ -11181,6 +11328,16 @@ pyenv
 https://brandyourself.com
 https://blog.feathersjs.com/from-mongoose-models-to-a-real-time-api-with-feathersjs-ec1cc3fb0a5c
 
-secret-notes.md
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
 ---
 

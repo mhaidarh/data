@@ -37,4 +37,3 @@ Business Systems
    - Do it prep
    - Start the sprint
    - Celebrate
-

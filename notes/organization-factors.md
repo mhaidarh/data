@@ -5,7 +5,9 @@ Here are several factors I consider when choosing or creating an organization/co
 
 Most Important:
 
-* Idea, Vision, Mission, The Why
+* The Why and Purpose
+* Idea, Vision, Mission
+* System and Structure
 * Goals and OKRs
 * Innovation and Progression
 * Strategy and Planning
@@ -31,10 +33,10 @@ Most Important:
 * Attention to Detail
 * Business Size
 * Social Network
+* Onboarding
 
 Additionals:
 
-* Certifications
-* MBTI
+* Big Five + MBTI + iPersonic
 * BOSI
-
+* Certifications

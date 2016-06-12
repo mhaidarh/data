@@ -4,4 +4,3 @@ What's the worst problem related to your people, study, design, or engineering y
 
 Let's conduct:
 Interview > Survey > Problem > Reality Check > Solution
-
